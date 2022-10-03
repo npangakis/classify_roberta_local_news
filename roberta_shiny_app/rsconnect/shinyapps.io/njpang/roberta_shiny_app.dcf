@@ -1,0 +1,11 @@
+name: roberta_shiny_app
+title:
+username:
+account: njpang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7142711
+bundleId: 6345557
+url: https://njpang.shinyapps.io/roberta_shiny_app/
+when: 1664333787.40779
+lastSyncTime: 1664333787.40781

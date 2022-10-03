@@ -1,0 +1,1885 @@
+"","monthf","monthweek","weekday","year","city_state","no_topic","topic","topic_prop"
+"1","Jan.",1,"Friday",2015,"Philadelphia, PA",302,119,0.282660332541568
+"2","Jan.",1,"Friday",2016,"Boston, MA",165,48,0.225352112676056
+"3","Jan.",1,"Friday",2016,"New York, NY",40,19,0.322033898305085
+"4","Jan.",1,"Friday",2016,"Philadelphia, PA",443,95,0.176579925650558
+"5","Jan.",1,"Friday",2018,"Philadelphia, PA",1042,16,0.0151228733459357
+"6","Jan.",1,"Monday",2018,"Philadelphia, PA",380,53,0.122401847575058
+"7","Jan.",1,"Saturday",2015,"Philadelphia, PA",100,35,0.259259259259259
+"8","Jan.",1,"Saturday",2016,"Boston, MA",111,47,0.29746835443038
+"9","Jan.",1,"Saturday",2016,"New York, NY",177,39,0.180555555555556
+"10","Jan.",1,"Saturday",2016,"Philadelphia, PA",344,72,0.173076923076923
+"11","Jan.",1,"Saturday",2018,"Philadelphia, PA",217,14,0.0606060606060606
+"12","Jan.",1,"Sunday",2015,"Philadelphia, PA",236,61,0.205387205387205
+"13","Jan.",1,"Sunday",2016,"Boston, MA",141,80,0.361990950226244
+"14","Jan.",1,"Sunday",2016,"New York, NY",178,36,0.168224299065421
+"15","Jan.",1,"Sunday",2016,"Philadelphia, PA",299,71,0.191891891891892
+"16","Jan.",1,"Sunday",2017,"Philadelphia, PA",229,67,0.226351351351351
+"17","Jan.",1,"Sunday",2018,"Philadelphia, PA",150,20,0.117647058823529
+"18","Jan.",1,"Thursday",2015,"Philadelphia, PA",214,49,0.186311787072243
+"19","Jan.",1,"Thursday",2018,"Philadelphia, PA",479,17,0.0342741935483871
+"20","Jan.",1,"Tuesday",2018,"Philadelphia, PA",392,57,0.126948775055679
+"21","Jan.",1,"Wednesday",2018,"Philadelphia, PA",368,46,0.111111111111111
+"22","Jan.",2,"Friday",2015,"Philadelphia, PA",299,194,0.393509127789047
+"23","Jan.",2,"Friday",2016,"Boston, MA",39,19,0.327586206896552
+"24","Jan.",2,"Friday",2016,"New York, NY",156,48,0.235294117647059
+"25","Jan.",2,"Friday",2016,"Philadelphia, PA",354,216,0.378947368421053
+"26","Jan.",2,"Friday",2017,"Philadelphia, PA",386,91,0.190775681341719
+"27","Jan.",2,"Friday",2018,"Philadelphia, PA",430,64,0.129554655870445
+"28","Jan.",2,"Monday",2015,"Philadelphia, PA",219,118,0.350148367952522
+"29","Jan.",2,"Monday",2016,"Boston, MA",151,75,0.331858407079646
+"30","Jan.",2,"Monday",2016,"New York, NY",202,70,0.257352941176471
+"31","Jan.",2,"Monday",2016,"Philadelphia, PA",337,99,0.227064220183486
+"32","Jan.",2,"Monday",2017,"Philadelphia, PA",331,112,0.252821670428894
+"33","Jan.",2,"Monday",2018,"Philadelphia, PA",348,16,0.043956043956044
+"34","Jan.",2,"Saturday",2015,"Philadelphia, PA",247,114,0.315789473684211
+"35","Jan.",2,"Saturday",2016,"Boston, MA",14,15,0.517241379310345
+"36","Jan.",2,"Saturday",2016,"New York, NY",83,30,0.265486725663717
+"37","Jan.",2,"Saturday",2016,"Philadelphia, PA",194,140,0.419161676646707
+"38","Jan.",2,"Saturday",2017,"Philadelphia, PA",292,90,0.235602094240838
+"39","Jan.",2,"Saturday",2018,"Philadelphia, PA",232,36,0.134328358208955
+"40","Jan.",2,"Sunday",2015,"Philadelphia, PA",153,75,0.328947368421053
+"41","Jan.",2,"Sunday",2016,"Boston, MA",136,40,0.227272727272727
+"42","Jan.",2,"Sunday",2016,"New York, NY",39,18,0.315789473684211
+"43","Jan.",2,"Sunday",2016,"Philadelphia, PA",329,103,0.238425925925926
+"44","Jan.",2,"Sunday",2017,"Philadelphia, PA",470,152,0.244372990353698
+"45","Jan.",2,"Sunday",2018,"Philadelphia, PA",327,38,0.104109589041096
+"46","Jan.",2,"Thursday",2015,"Philadelphia, PA",229,101,0.306060606060606
+"47","Jan.",2,"Thursday",2016,"Boston, MA",245,94,0.277286135693215
+"48","Jan.",2,"Thursday",2016,"New York, NY",178,76,0.299212598425197
+"49","Jan.",2,"Thursday",2016,"Philadelphia, PA",492,131,0.210272873194221
+"50","Jan.",2,"Thursday",2017,"Philadelphia, PA",384,132,0.255813953488372
+"51","Jan.",2,"Thursday",2018,"Philadelphia, PA",235,70,0.229508196721311
+"52","Jan.",2,"Tuesday",2015,"Philadelphia, PA",337,93,0.216279069767442
+"53","Jan.",2,"Tuesday",2016,"Boston, MA",206,77,0.27208480565371
+"54","Jan.",2,"Tuesday",2016,"New York, NY",175,49,0.21875
+"55","Jan.",2,"Tuesday",2016,"Philadelphia, PA",350,165,0.320388349514563
+"56","Jan.",2,"Tuesday",2017,"Philadelphia, PA",359,165,0.314885496183206
+"57","Jan.",2,"Tuesday",2018,"Philadelphia, PA",379,64,0.144469525959368
+"58","Jan.",2,"Wednesday",2015,"Philadelphia, PA",301,114,0.274698795180723
+"59","Jan.",2,"Wednesday",2016,"Boston, MA",84,49,0.368421052631579
+"60","Jan.",2,"Wednesday",2016,"New York, NY",264,99,0.272727272727273
+"61","Jan.",2,"Wednesday",2016,"Philadelphia, PA",387,128,0.248543689320388
+"62","Jan.",2,"Wednesday",2017,"Philadelphia, PA",548,201,0.268357810413885
+"63","Jan.",2,"Wednesday",2018,"Philadelphia, PA",255,48,0.158415841584158
+"64","Jan.",3,"Friday",2015,"Philadelphia, PA",359,176,0.328971962616822
+"65","Jan.",3,"Friday",2016,"Boston, MA",214,106,0.33125
+"66","Jan.",3,"Friday",2016,"New York, NY",228,57,0.2
+"67","Jan.",3,"Friday",2016,"Philadelphia, PA",545,135,0.198529411764706
+"68","Jan.",3,"Friday",2017,"Philadelphia, PA",521,250,0.324254215304799
+"69","Jan.",3,"Friday",2018,"Philadelphia, PA",169,44,0.206572769953052
+"70","Jan.",3,"Monday",2015,"Philadelphia, PA",261,69,0.209090909090909
+"71","Jan.",3,"Monday",2016,"Boston, MA",166,78,0.319672131147541
+"72","Jan.",3,"Monday",2016,"New York, NY",277,80,0.224089635854342
+"73","Jan.",3,"Monday",2016,"Philadelphia, PA",378,163,0.301293900184843
+"74","Jan.",3,"Monday",2017,"Philadelphia, PA",486,166,0.254601226993865
+"75","Jan.",3,"Monday",2018,"Philadelphia, PA",421,37,0.0807860262008734
+"76","Jan.",3,"Saturday",2015,"Philadelphia, PA",216,78,0.26530612244898
+"77","Jan.",3,"Saturday",2016,"Boston, MA",81,56,0.408759124087591
+"78","Jan.",3,"Saturday",2016,"New York, NY",38,16,0.296296296296296
+"79","Jan.",3,"Saturday",2016,"Philadelphia, PA",306,90,0.227272727272727
+"80","Jan.",3,"Saturday",2017,"Philadelphia, PA",306,108,0.260869565217391
+"81","Jan.",3,"Saturday",2018,"Philadelphia, PA",234,17,0.0677290836653386
+"82","Jan.",3,"Sunday",2015,"Philadelphia, PA",154,42,0.214285714285714
+"83","Jan.",3,"Sunday",2016,"Boston, MA",99,50,0.335570469798658
+"84","Jan.",3,"Sunday",2016,"New York, NY",63,17,0.2125
+"85","Jan.",3,"Sunday",2016,"Philadelphia, PA",365,132,0.265593561368209
+"86","Jan.",3,"Sunday",2017,"Philadelphia, PA",318,102,0.242857142857143
+"87","Jan.",3,"Sunday",2018,"Philadelphia, PA",351,22,0.0589812332439678
+"88","Jan.",3,"Thursday",2015,"Philadelphia, PA",215,109,0.33641975308642
+"89","Jan.",3,"Thursday",2016,"Boston, MA",111,53,0.323170731707317
+"90","Jan.",3,"Thursday",2016,"New York, NY",205,43,0.173387096774194
+"91","Jan.",3,"Thursday",2016,"Philadelphia, PA",489,183,0.272321428571429
+"92","Jan.",3,"Thursday",2017,"Philadelphia, PA",487,171,0.259878419452888
+"93","Jan.",3,"Thursday",2018,"Philadelphia, PA",288,81,0.219512195121951
+"94","Jan.",3,"Tuesday",2015,"Philadelphia, PA",385,211,0.354026845637584
+"95","Jan.",3,"Tuesday",2016,"Boston, MA",141,61,0.301980198019802
+"96","Jan.",3,"Tuesday",2016,"New York, NY",141,55,0.280612244897959
+"97","Jan.",3,"Tuesday",2016,"Philadelphia, PA",318,121,0.275626423690205
+"98","Jan.",3,"Tuesday",2017,"Philadelphia, PA",474,229,0.32574679943101
+"99","Jan.",3,"Tuesday",2018,"Philadelphia, PA",471,130,0.21630615640599
+"100","Jan.",3,"Wednesday",2015,"Philadelphia, PA",352,208,0.371428571428571
+"101","Jan.",3,"Wednesday",2016,"Boston, MA",117,30,0.204081632653061
+"102","Jan.",3,"Wednesday",2016,"New York, NY",139,28,0.167664670658683
+"103","Jan.",3,"Wednesday",2016,"Philadelphia, PA",533,148,0.217327459618209
+"104","Jan.",3,"Wednesday",2017,"Philadelphia, PA",711,206,0.224645583424209
+"105","Jan.",3,"Wednesday",2018,"Philadelphia, PA",488,102,0.172881355932203
+"106","Jan.",4,"Friday",2015,"Philadelphia, PA",375,155,0.292452830188679
+"107","Jan.",4,"Friday",2016,"Boston, MA",238,64,0.211920529801325
+"108","Jan.",4,"Friday",2016,"New York, NY",181,47,0.206140350877193
+"109","Jan.",4,"Friday",2016,"Philadelphia, PA",702,41,0.0551816958277254
+"110","Jan.",4,"Friday",2017,"Philadelphia, PA",277,44,0.137071651090343
+"111","Jan.",4,"Friday",2018,"Philadelphia, PA",380,93,0.19661733615222
+"112","Jan.",4,"Monday",2015,"Philadelphia, PA",320,77,0.193954659949622
+"113","Jan.",4,"Monday",2016,"Boston, MA",165,61,0.269911504424779
+"114","Jan.",4,"Monday",2016,"New York, NY",97,35,0.265151515151515
+"115","Jan.",4,"Monday",2016,"Philadelphia, PA",464,125,0.212224108658744
+"116","Jan.",4,"Monday",2017,"Philadelphia, PA",474,132,0.217821782178218
+"117","Jan.",4,"Monday",2018,"Philadelphia, PA",456,39,0.0787878787878788
+"118","Jan.",4,"Saturday",2015,"Philadelphia, PA",232,35,0.131086142322097
+"119","Jan.",4,"Saturday",2016,"Boston, MA",90,16,0.150943396226415
+"120","Jan.",4,"Saturday",2016,"New York, NY",120,2,0.0163934426229508
+"121","Jan.",4,"Saturday",2016,"Philadelphia, PA",276,3,0.010752688172043
+"122","Jan.",4,"Saturday",2017,"Philadelphia, PA",287,41,0.125
+"123","Jan.",4,"Saturday",2018,"Philadelphia, PA",230,41,0.151291512915129
+"124","Jan.",4,"Sunday",2015,"Philadelphia, PA",204,52,0.203125
+"125","Jan.",4,"Sunday",2016,"Boston, MA",104,6,0.0545454545454545
+"126","Jan.",4,"Sunday",2016,"New York, NY",162,0,0
+"127","Jan.",4,"Sunday",2016,"Philadelphia, PA",248,0,0
+"128","Jan.",4,"Sunday",2017,"Philadelphia, PA",189,51,0.2125
+"129","Jan.",4,"Sunday",2018,"Philadelphia, PA",214,28,0.115702479338843
+"130","Jan.",4,"Thursday",2015,"Philadelphia, PA",224,88,0.282051282051282
+"131","Jan.",4,"Thursday",2016,"Boston, MA",158,58,0.268518518518519
+"132","Jan.",4,"Thursday",2016,"New York, NY",185,37,0.166666666666667
+"133","Jan.",4,"Thursday",2016,"Philadelphia, PA",483,65,0.118613138686131
+"134","Jan.",4,"Thursday",2017,"Philadelphia, PA",450,96,0.175824175824176
+"135","Jan.",4,"Thursday",2018,"Philadelphia, PA",423,146,0.256590509666081
+"136","Jan.",4,"Tuesday",2015,"Philadelphia, PA",324,140,0.301724137931034
+"137","Jan.",4,"Tuesday",2016,"Boston, MA",222,55,0.1985559566787
+"138","Jan.",4,"Tuesday",2016,"New York, NY",213,85,0.285234899328859
+"139","Jan.",4,"Tuesday",2016,"Philadelphia, PA",524,148,0.220238095238095
+"140","Jan.",4,"Tuesday",2017,"Philadelphia, PA",441,138,0.238341968911917
+"141","Jan.",4,"Tuesday",2018,"Philadelphia, PA",289,55,0.159883720930233
+"142","Jan.",4,"Wednesday",2015,"Philadelphia, PA",127,52,0.290502793296089
+"143","Jan.",4,"Wednesday",2016,"Boston, MA",313,125,0.285388127853881
+"144","Jan.",4,"Wednesday",2016,"New York, NY",189,59,0.237903225806452
+"145","Jan.",4,"Wednesday",2016,"Philadelphia, PA",668,153,0.186358099878197
+"146","Jan.",4,"Wednesday",2017,"Philadelphia, PA",490,147,0.230769230769231
+"147","Jan.",4,"Wednesday",2018,"Philadelphia, PA",265,81,0.234104046242775
+"148","Jan.",5,"Friday",2015,"Philadelphia, PA",231,86,0.271293375394322
+"149","Jan.",5,"Friday",2016,"Boston, MA",62,17,0.215189873417722
+"150","Jan.",5,"Friday",2016,"New York, NY",197,83,0.296428571428571
+"151","Jan.",5,"Friday",2016,"Philadelphia, PA",499,171,0.255223880597015
+"152","Jan.",5,"Friday",2017,"Philadelphia, PA",618,103,0.142857142857143
+"153","Jan.",5,"Monday",2015,"Philadelphia, PA",304,17,0.0529595015576324
+"154","Jan.",5,"Monday",2016,"Boston, MA",89,48,0.35036496350365
+"155","Jan.",5,"Monday",2016,"New York, NY",293,44,0.130563798219585
+"156","Jan.",5,"Monday",2016,"Philadelphia, PA",431,31,0.0670995670995671
+"157","Jan.",5,"Monday",2017,"Philadelphia, PA",388,57,0.128089887640449
+"158","Jan.",5,"Monday",2018,"Philadelphia, PA",214,34,0.137096774193548
+"159","Jan.",5,"Saturday",2015,"Philadelphia, PA",225,44,0.163568773234201
+"160","Jan.",5,"Saturday",2016,"Boston, MA",27,20,0.425531914893617
+"161","Jan.",5,"Saturday",2016,"New York, NY",35,23,0.396551724137931
+"162","Jan.",5,"Saturday",2016,"Philadelphia, PA",330,108,0.246575342465753
+"163","Jan.",5,"Saturday",2017,"Philadelphia, PA",412,125,0.232774674115456
+"164","Jan.",5,"Sunday",2016,"Boston, MA",49,10,0.169491525423729
+"165","Jan.",5,"Sunday",2016,"New York, NY",174,47,0.212669683257919
+"166","Jan.",5,"Sunday",2016,"Philadelphia, PA",360,131,0.266802443991853
+"167","Jan.",5,"Sunday",2017,"Philadelphia, PA",317,93,0.226829268292683
+"168","Jan.",5,"Thursday",2015,"Philadelphia, PA",307,169,0.355042016806723
+"169","Jan.",5,"Thursday",2016,"Boston, MA",59,23,0.280487804878049
+"170","Jan.",5,"Thursday",2016,"New York, NY",233,128,0.354570637119114
+"171","Jan.",5,"Thursday",2016,"Philadelphia, PA",617,252,0.289988492520138
+"172","Jan.",5,"Thursday",2017,"Philadelphia, PA",551,87,0.136363636363636
+"173","Jan.",5,"Tuesday",2015,"Philadelphia, PA",256,27,0.0954063604240283
+"174","Jan.",5,"Tuesday",2016,"Boston, MA",112,45,0.286624203821656
+"175","Jan.",5,"Tuesday",2016,"New York, NY",292,64,0.179775280898876
+"176","Jan.",5,"Tuesday",2016,"Philadelphia, PA",520,76,0.12751677852349
+"177","Jan.",5,"Tuesday",2017,"Philadelphia, PA",636,107,0.144010767160162
+"178","Jan.",5,"Tuesday",2018,"Philadelphia, PA",236,32,0.119402985074627
+"179","Jan.",5,"Wednesday",2015,"Philadelphia, PA",239,91,0.275757575757576
+"180","Jan.",5,"Wednesday",2016,"Boston, MA",69,37,0.349056603773585
+"181","Jan.",5,"Wednesday",2016,"New York, NY",326,104,0.241860465116279
+"182","Jan.",5,"Wednesday",2016,"Philadelphia, PA",504,176,0.258823529411765
+"183","Jan.",5,"Wednesday",2017,"Philadelphia, PA",648,140,0.177664974619289
+"184","Jan.",5,"Wednesday",2018,"Philadelphia, PA",484,56,0.103703703703704
+"185","Jan.",6,"Monday",2017,"Philadelphia, PA",396,96,0.195121951219512
+"186","Jan.",6,"Tuesday",2017,"Philadelphia, PA",534,105,0.164319248826291
+"187","Feb.",1,"Friday",2016,"Boston, MA",103,13,0.112068965517241
+"188","Feb.",1,"Friday",2016,"New York, NY",275,73,0.209770114942529
+"189","Feb.",1,"Friday",2016,"Philadelphia, PA",374,70,0.157657657657658
+"190","Feb.",1,"Friday",2017,"Philadelphia, PA",559,243,0.302992518703242
+"191","Feb.",1,"Friday",2018,"Philadelphia, PA",285,28,0.0894568690095847
+"192","Feb.",1,"Monday",2016,"Boston, MA",182,72,0.283464566929134
+"193","Feb.",1,"Monday",2016,"New York, NY",109,33,0.232394366197183
+"194","Feb.",1,"Monday",2016,"Philadelphia, PA",387,128,0.248543689320388
+"195","Feb.",1,"Saturday",2016,"Boston, MA",217,26,0.106995884773663
+"196","Feb.",1,"Saturday",2016,"New York, NY",101,10,0.0900900900900901
+"197","Feb.",1,"Saturday",2016,"Philadelphia, PA",313,68,0.178477690288714
+"198","Feb.",1,"Saturday",2017,"Philadelphia, PA",314,86,0.215
+"199","Feb.",1,"Saturday",2018,"Philadelphia, PA",149,16,0.096969696969697
+"200","Feb.",1,"Sunday",2015,"Philadelphia, PA",206,38,0.155737704918033
+"201","Feb.",1,"Sunday",2016,"Boston, MA",59,17,0.223684210526316
+"202","Feb.",1,"Sunday",2016,"New York, NY",125,16,0.113475177304965
+"203","Feb.",1,"Sunday",2016,"Philadelphia, PA",299,65,0.178571428571429
+"204","Feb.",1,"Sunday",2017,"Philadelphia, PA",482,62,0.113970588235294
+"205","Feb.",1,"Sunday",2018,"Philadelphia, PA",181,5,0.0268817204301075
+"206","Feb.",1,"Thursday",2016,"Boston, MA",160,35,0.179487179487179
+"207","Feb.",1,"Thursday",2016,"New York, NY",239,71,0.229032258064516
+"208","Feb.",1,"Thursday",2016,"Philadelphia, PA",527,188,0.262937062937063
+"209","Feb.",1,"Thursday",2017,"Philadelphia, PA",471,302,0.390685640362225
+"210","Feb.",1,"Thursday",2018,"Philadelphia, PA",452,64,0.124031007751938
+"211","Feb.",1,"Tuesday",2016,"Boston, MA",264,54,0.169811320754717
+"212","Feb.",1,"Tuesday",2016,"New York, NY",235,91,0.279141104294479
+"213","Feb.",1,"Tuesday",2016,"Philadelphia, PA",455,206,0.311649016641452
+"214","Feb.",1,"Wednesday",2016,"Boston, MA",176,39,0.181395348837209
+"215","Feb.",1,"Wednesday",2016,"New York, NY",198,63,0.241379310344828
+"216","Feb.",1,"Wednesday",2016,"Philadelphia, PA",315,174,0.355828220858896
+"217","Feb.",1,"Wednesday",2017,"Philadelphia, PA",618,251,0.288837744533947
+"218","Feb.",2,"Friday",2015,"Philadelphia, PA",171,125,0.422297297297297
+"219","Feb.",2,"Friday",2016,"Boston, MA",396,170,0.300353356890459
+"220","Feb.",2,"Friday",2016,"New York, NY",197,82,0.293906810035842
+"221","Feb.",2,"Friday",2016,"Philadelphia, PA",553,117,0.174626865671642
+"222","Feb.",2,"Friday",2017,"Philadelphia, PA",532,124,0.189024390243902
+"223","Feb.",2,"Friday",2018,"Philadelphia, PA",558,35,0.0590219224283305
+"224","Feb.",2,"Monday",2015,"Philadelphia, PA",406,79,0.162886597938144
+"225","Feb.",2,"Monday",2016,"Boston, MA",58,4,0.0645161290322581
+"226","Feb.",2,"Monday",2016,"New York, NY",87,26,0.230088495575221
+"227","Feb.",2,"Monday",2016,"Philadelphia, PA",436,116,0.210144927536232
+"228","Feb.",2,"Monday",2017,"Philadelphia, PA",498,138,0.216981132075472
+"229","Feb.",2,"Monday",2018,"Philadelphia, PA",476,13,0.0265848670756646
+"230","Feb.",2,"Saturday",2015,"Philadelphia, PA",273,35,0.113636363636364
+"231","Feb.",2,"Saturday",2016,"Boston, MA",383,118,0.235528942115768
+"232","Feb.",2,"Saturday",2016,"New York, NY",259,45,0.148026315789474
+"233","Feb.",2,"Saturday",2016,"Philadelphia, PA",272,48,0.15
+"234","Feb.",2,"Saturday",2017,"Philadelphia, PA",370,156,0.296577946768061
+"235","Feb.",2,"Saturday",2018,"Philadelphia, PA",277,49,0.150306748466258
+"236","Feb.",2,"Sunday",2015,"Philadelphia, PA",150,30,0.166666666666667
+"237","Feb.",2,"Sunday",2016,"Boston, MA",446,38,0.0785123966942149
+"238","Feb.",2,"Sunday",2016,"New York, NY",172,21,0.10880829015544
+"239","Feb.",2,"Sunday",2016,"Philadelphia, PA",354,28,0.0732984293193717
+"240","Feb.",2,"Sunday",2017,"Philadelphia, PA",365,70,0.160919540229885
+"241","Feb.",2,"Sunday",2018,"Philadelphia, PA",406,81,0.166324435318275
+"242","Feb.",2,"Thursday",2015,"Philadelphia, PA",206,102,0.331168831168831
+"243","Feb.",2,"Thursday",2016,"Boston, MA",430,220,0.338461538461538
+"244","Feb.",2,"Thursday",2016,"New York, NY",246,133,0.350923482849604
+"245","Feb.",2,"Thursday",2016,"Philadelphia, PA",399,152,0.275862068965517
+"246","Feb.",2,"Thursday",2017,"Philadelphia, PA",496,46,0.0848708487084871
+"247","Feb.",2,"Thursday",2018,"Philadelphia, PA",765,15,0.0192307692307692
+"248","Feb.",2,"Tuesday",2015,"Philadelphia, PA",236,99,0.295522388059701
+"249","Feb.",2,"Tuesday",2016,"Boston, MA",281,37,0.116352201257862
+"250","Feb.",2,"Tuesday",2016,"New York, NY",366,106,0.224576271186441
+"251","Feb.",2,"Tuesday",2016,"Philadelphia, PA",663,153,0.1875
+"252","Feb.",2,"Tuesday",2017,"Philadelphia, PA",562,169,0.231190150478796
+"253","Feb.",2,"Tuesday",2018,"Philadelphia, PA",478,49,0.0929791271347249
+"254","Feb.",2,"Wednesday",2015,"Philadelphia, PA",444,143,0.243611584327087
+"255","Feb.",2,"Wednesday",2016,"Boston, MA",602,107,0.150916784203103
+"256","Feb.",2,"Wednesday",2016,"New York, NY",231,74,0.242622950819672
+"257","Feb.",2,"Wednesday",2016,"Philadelphia, PA",523,110,0.173775671406003
+"258","Feb.",2,"Wednesday",2017,"Philadelphia, PA",578,107,0.156204379562044
+"259","Feb.",2,"Wednesday",2018,"Philadelphia, PA",568,28,0.0469798657718121
+"260","Feb.",3,"Friday",2015,"Philadelphia, PA",273,70,0.204081632653061
+"261","Feb.",3,"Friday",2016,"Boston, MA",246,102,0.293103448275862
+"262","Feb.",3,"Friday",2016,"New York, NY",282,109,0.278772378516624
+"263","Feb.",3,"Friday",2016,"Philadelphia, PA",563,235,0.294486215538847
+"264","Feb.",3,"Friday",2017,"Philadelphia, PA",233,86,0.269592476489028
+"265","Feb.",3,"Friday",2018,"Philadelphia, PA",225,95,0.296875
+"266","Feb.",3,"Monday",2015,"Philadelphia, PA",205,97,0.321192052980132
+"267","Feb.",3,"Monday",2016,"Boston, MA",600,124,0.171270718232044
+"268","Feb.",3,"Monday",2016,"New York, NY",264,87,0.247863247863248
+"269","Feb.",3,"Monday",2016,"Philadelphia, PA",328,51,0.134564643799472
+"270","Feb.",3,"Monday",2017,"Philadelphia, PA",435,101,0.188432835820896
+"271","Feb.",3,"Monday",2018,"Philadelphia, PA",337,49,0.126943005181347
+"272","Feb.",3,"Saturday",2015,"Philadelphia, PA",275,56,0.169184290030211
+"273","Feb.",3,"Saturday",2016,"Boston, MA",123,41,0.25
+"274","Feb.",3,"Saturday",2016,"New York, NY",65,50,0.434782608695652
+"275","Feb.",3,"Saturday",2016,"Philadelphia, PA",482,127,0.208538587848933
+"276","Feb.",3,"Saturday",2017,"Philadelphia, PA",318,97,0.233734939759036
+"277","Feb.",3,"Saturday",2018,"Philadelphia, PA",147,44,0.230366492146597
+"278","Feb.",3,"Sunday",2015,"Philadelphia, PA",122,22,0.152777777777778
+"279","Feb.",3,"Sunday",2016,"Boston, MA",357,127,0.262396694214876
+"280","Feb.",3,"Sunday",2016,"New York, NY",99,16,0.139130434782609
+"281","Feb.",3,"Sunday",2016,"Philadelphia, PA",549,136,0.198540145985401
+"282","Feb.",3,"Sunday",2017,"Philadelphia, PA",473,121,0.203703703703704
+"283","Feb.",3,"Sunday",2018,"Philadelphia, PA",171,24,0.123076923076923
+"284","Feb.",3,"Thursday",2015,"Philadelphia, PA",322,107,0.249417249417249
+"285","Feb.",3,"Thursday",2016,"Boston, MA",196,82,0.294964028776978
+"286","Feb.",3,"Thursday",2016,"New York, NY",127,60,0.320855614973262
+"287","Feb.",3,"Thursday",2016,"Philadelphia, PA",560,208,0.270833333333333
+"288","Feb.",3,"Thursday",2017,"Philadelphia, PA",553,159,0.223314606741573
+"289","Feb.",3,"Thursday",2018,"Philadelphia, PA",291,198,0.404907975460123
+"290","Feb.",3,"Tuesday",2015,"Philadelphia, PA",225,77,0.254966887417219
+"291","Feb.",3,"Tuesday",2016,"Boston, MA",378,105,0.217391304347826
+"292","Feb.",3,"Tuesday",2016,"New York, NY",238,61,0.204013377926421
+"293","Feb.",3,"Tuesday",2016,"Philadelphia, PA",413,67,0.139583333333333
+"294","Feb.",3,"Tuesday",2017,"Philadelphia, PA",610,195,0.242236024844721
+"295","Feb.",3,"Tuesday",2018,"Philadelphia, PA",305,44,0.126074498567335
+"296","Feb.",3,"Wednesday",2015,"Philadelphia, PA",300,179,0.373695198329854
+"297","Feb.",3,"Wednesday",2016,"Boston, MA",202,104,0.339869281045752
+"298","Feb.",3,"Wednesday",2016,"New York, NY",323,129,0.285398230088496
+"299","Feb.",3,"Wednesday",2016,"Philadelphia, PA",544,222,0.289817232375979
+"300","Feb.",3,"Wednesday",2017,"Philadelphia, PA",458,181,0.283255086071987
+"301","Feb.",3,"Wednesday",2018,"Philadelphia, PA",263,74,0.219584569732938
+"302","Feb.",4,"Friday",2015,"Philadelphia, PA",242,103,0.298550724637681
+"303","Feb.",4,"Friday",2016,"Boston, MA",278,183,0.396963123644252
+"304","Feb.",4,"Friday",2016,"New York, NY",152,78,0.339130434782609
+"305","Feb.",4,"Friday",2016,"Philadelphia, PA",396,201,0.336683417085427
+"306","Feb.",4,"Friday",2017,"Philadelphia, PA",704,222,0.239740820734341
+"307","Feb.",4,"Friday",2018,"Philadelphia, PA",174,81,0.317647058823529
+"308","Feb.",4,"Monday",2015,"Philadelphia, PA",368,79,0.176733780760626
+"309","Feb.",4,"Monday",2016,"Boston, MA",221,140,0.38781163434903
+"310","Feb.",4,"Monday",2016,"New York, NY",219,130,0.372492836676218
+"311","Feb.",4,"Monday",2016,"Philadelphia, PA",467,168,0.264566929133858
+"312","Feb.",4,"Monday",2017,"Philadelphia, PA",506,133,0.208137715179969
+"313","Feb.",4,"Monday",2018,"Philadelphia, PA",318,74,0.188775510204082
+"314","Feb.",4,"Saturday",2015,"Philadelphia, PA",272,30,0.0993377483443709
+"315","Feb.",4,"Saturday",2016,"Boston, MA",210,85,0.288135593220339
+"316","Feb.",4,"Saturday",2016,"New York, NY",195,67,0.255725190839695
+"317","Feb.",4,"Saturday",2016,"Philadelphia, PA",389,83,0.175847457627119
+"318","Feb.",4,"Saturday",2017,"Philadelphia, PA",355,89,0.20045045045045
+"319","Feb.",4,"Saturday",2018,"Philadelphia, PA",201,92,0.313993174061433
+"320","Feb.",4,"Sunday",2015,"Philadelphia, PA",176,1,0.00564971751412429
+"321","Feb.",4,"Sunday",2016,"Boston, MA",96,35,0.267175572519084
+"322","Feb.",4,"Sunday",2016,"New York, NY",127,13,0.0928571428571429
+"323","Feb.",4,"Sunday",2016,"Philadelphia, PA",440,71,0.13894324853229
+"324","Feb.",4,"Sunday",2017,"Philadelphia, PA",565,104,0.155455904334828
+"325","Feb.",4,"Sunday",2018,"Philadelphia, PA",92,19,0.171171171171171
+"326","Feb.",4,"Thursday",2015,"Philadelphia, PA",231,115,0.332369942196532
+"327","Feb.",4,"Thursday",2016,"Boston, MA",220,88,0.285714285714286
+"328","Feb.",4,"Thursday",2016,"New York, NY",223,58,0.206405693950178
+"329","Feb.",4,"Thursday",2016,"Philadelphia, PA",434,112,0.205128205128205
+"330","Feb.",4,"Thursday",2017,"Philadelphia, PA",619,205,0.24878640776699
+"331","Feb.",4,"Thursday",2018,"Philadelphia, PA",286,121,0.297297297297297
+"332","Feb.",4,"Tuesday",2015,"Philadelphia, PA",374,40,0.0966183574879227
+"333","Feb.",4,"Tuesday",2016,"Boston, MA",346,208,0.375451263537906
+"334","Feb.",4,"Tuesday",2016,"New York, NY",107,54,0.335403726708075
+"335","Feb.",4,"Tuesday",2016,"Philadelphia, PA",318,123,0.27891156462585
+"336","Feb.",4,"Tuesday",2017,"Philadelphia, PA",420,187,0.308072487644152
+"337","Feb.",4,"Tuesday",2018,"Philadelphia, PA",389,130,0.250481695568401
+"338","Feb.",4,"Wednesday",2015,"Philadelphia, PA",160,57,0.262672811059908
+"339","Feb.",4,"Wednesday",2016,"Boston, MA",224,81,0.265573770491803
+"340","Feb.",4,"Wednesday",2016,"New York, NY",149,77,0.34070796460177
+"341","Feb.",4,"Wednesday",2016,"Philadelphia, PA",485,158,0.245723172628305
+"342","Feb.",4,"Wednesday",2017,"Philadelphia, PA",646,181,0.218863361547763
+"343","Feb.",4,"Wednesday",2018,"Philadelphia, PA",443,151,0.254208754208754
+"344","Feb.",5,"Friday",2015,"Philadelphia, PA",110,58,0.345238095238095
+"345","Feb.",5,"Monday",2015,"Philadelphia, PA",336,120,0.263157894736842
+"346","Feb.",5,"Monday",2016,"Boston, MA",109,60,0.355029585798817
+"347","Feb.",5,"Monday",2016,"New York, NY",109,58,0.347305389221557
+"348","Feb.",5,"Monday",2016,"Philadelphia, PA",198,74,0.272058823529412
+"349","Feb.",5,"Monday",2017,"Philadelphia, PA",466,188,0.287461773700306
+"350","Feb.",5,"Monday",2018,"Philadelphia, PA",313,104,0.249400479616307
+"351","Feb.",5,"Thursday",2015,"Philadelphia, PA",244,132,0.351063829787234
+"352","Feb.",5,"Tuesday",2015,"Philadelphia, PA",394,146,0.27037037037037
+"353","Feb.",5,"Tuesday",2017,"Philadelphia, PA",367,80,0.178970917225951
+"354","Feb.",5,"Tuesday",2018,"Philadelphia, PA",161,81,0.334710743801653
+"355","Feb.",5,"Wednesday",2015,"Philadelphia, PA",257,114,0.307277628032345
+"356","Feb.",5,"Wednesday",2018,"Philadelphia, PA",184,86,0.318518518518519
+"357","March",1,"Friday",2015,"Philadelphia, PA",98,44,0.309859154929577
+"358","March",1,"Friday",2016,"New York, NY",322,163,0.336082474226804
+"359","March",1,"Friday",2016,"Philadelphia, PA",327,114,0.258503401360544
+"360","March",1,"Friday",2017,"Philadelphia, PA",635,183,0.223716381418093
+"361","March",1,"Friday",2018,"Philadelphia, PA",53,0,0
+"362","March",1,"Monday",2015,"Philadelphia, PA",107,35,0.246478873239437
+"363","March",1,"Saturday",2015,"Philadelphia, PA",121,27,0.182432432432432
+"364","March",1,"Saturday",2016,"New York, NY",172,59,0.255411255411255
+"365","March",1,"Saturday",2016,"Philadelphia, PA",130,36,0.216867469879518
+"366","March",1,"Saturday",2017,"Philadelphia, PA",332,73,0.180246913580247
+"367","March",1,"Saturday",2018,"Philadelphia, PA",19,3,0.136363636363636
+"368","March",1,"Sunday",2015,"Philadelphia, PA",42,14,0.25
+"369","March",1,"Sunday",2016,"New York, NY",19,9,0.321428571428571
+"370","March",1,"Sunday",2016,"Philadelphia, PA",372,98,0.208510638297872
+"371","March",1,"Sunday",2017,"Philadelphia, PA",249,57,0.186274509803922
+"372","March",1,"Thursday",2015,"Philadelphia, PA",208,38,0.154471544715447
+"373","March",1,"Thursday",2016,"New York, NY",147,26,0.15028901734104
+"374","March",1,"Thursday",2016,"Philadelphia, PA",455,131,0.223549488054608
+"375","March",1,"Thursday",2017,"Philadelphia, PA",604,133,0.180461329715061
+"376","March",1,"Thursday",2018,"Philadelphia, PA",56,31,0.35632183908046
+"377","March",1,"Tuesday",2015,"Philadelphia, PA",293,93,0.240932642487047
+"378","March",1,"Tuesday",2016,"Boston, MA",313,124,0.283752860411899
+"379","March",1,"Tuesday",2016,"New York, NY",250,80,0.242424242424242
+"380","March",1,"Tuesday",2016,"Philadelphia, PA",400,169,0.29701230228471
+"381","March",1,"Wednesday",2015,"Philadelphia, PA",241,83,0.256172839506173
+"382","March",1,"Wednesday",2016,"Boston, MA",335,61,0.154040404040404
+"383","March",1,"Wednesday",2016,"New York, NY",194,65,0.250965250965251
+"384","March",1,"Wednesday",2016,"Philadelphia, PA",386,153,0.283858998144712
+"385","March",1,"Wednesday",2017,"Philadelphia, PA",542,143,0.208759124087591
+"386","March",2,"Friday",2015,"Philadelphia, PA",236,133,0.360433604336043
+"387","March",2,"Friday",2016,"New York, NY",183,72,0.282352941176471
+"388","March",2,"Friday",2016,"Philadelphia, PA",545,209,0.277188328912467
+"389","March",2,"Friday",2017,"Philadelphia, PA",639,127,0.16579634464752
+"390","March",2,"Monday",2015,"Philadelphia, PA",282,102,0.265625
+"391","March",2,"Monday",2016,"New York, NY",183,65,0.262096774193548
+"392","March",2,"Monday",2016,"Philadelphia, PA",498,167,0.251127819548872
+"393","March",2,"Monday",2017,"Philadelphia, PA",600,189,0.239543726235741
+"394","March",2,"Saturday",2015,"Philadelphia, PA",132,34,0.204819277108434
+"395","March",2,"Saturday",2016,"New York, NY",219,64,0.226148409893993
+"396","March",2,"Saturday",2016,"Philadelphia, PA",258,91,0.260744985673352
+"397","March",2,"Saturday",2017,"Philadelphia, PA",395,86,0.178794178794179
+"398","March",2,"Sunday",2015,"Philadelphia, PA",273,37,0.119354838709677
+"399","March",2,"Sunday",2016,"New York, NY",151,47,0.237373737373737
+"400","March",2,"Sunday",2016,"Philadelphia, PA",281,120,0.29925187032419
+"401","March",2,"Sunday",2017,"Philadelphia, PA",331,55,0.142487046632124
+"402","March",2,"Thursday",2015,"Philadelphia, PA",213,189,0.470149253731343
+"403","March",2,"Thursday",2016,"New York, NY",190,65,0.254901960784314
+"404","March",2,"Thursday",2016,"Philadelphia, PA",296,130,0.305164319248826
+"405","March",2,"Thursday",2017,"Philadelphia, PA",430,153,0.262435677530017
+"406","March",2,"Tuesday",2015,"Philadelphia, PA",237,135,0.362903225806452
+"407","March",2,"Tuesday",2016,"New York, NY",219,72,0.247422680412371
+"408","March",2,"Tuesday",2016,"Philadelphia, PA",592,151,0.203230148048452
+"409","March",2,"Tuesday",2017,"Philadelphia, PA",724,274,0.274549098196393
+"410","March",2,"Wednesday",2015,"Philadelphia, PA",304,145,0.32293986636971
+"411","March",2,"Wednesday",2016,"New York, NY",134,45,0.251396648044693
+"412","March",2,"Wednesday",2016,"Philadelphia, PA",390,114,0.226190476190476
+"413","March",2,"Wednesday",2017,"Philadelphia, PA",484,197,0.28928046989721
+"414","March",2,"Wednesday",2018,"Philadelphia, PA",29,1,0.0333333333333333
+"415","March",3,"Friday",2015,"Philadelphia, PA",173,65,0.273109243697479
+"416","March",3,"Friday",2016,"New York, NY",249,83,0.25
+"417","March",3,"Friday",2016,"Philadelphia, PA",513,178,0.257597684515195
+"418","March",3,"Friday",2017,"Philadelphia, PA",445,147,0.248310810810811
+"419","March",3,"Monday",2015,"Philadelphia, PA",244,87,0.262839879154079
+"420","March",3,"Monday",2016,"New York, NY",215,84,0.280936454849498
+"421","March",3,"Monday",2016,"Philadelphia, PA",414,179,0.30185497470489
+"422","March",3,"Monday",2017,"Philadelphia, PA",347,55,0.13681592039801
+"423","March",3,"Saturday",2015,"Philadelphia, PA",140,48,0.25531914893617
+"424","March",3,"Saturday",2016,"New York, NY",153,36,0.19047619047619
+"425","March",3,"Saturday",2016,"Philadelphia, PA",225,47,0.172794117647059
+"426","March",3,"Saturday",2017,"Philadelphia, PA",338,110,0.245535714285714
+"427","March",3,"Sunday",2015,"Philadelphia, PA",226,58,0.204225352112676
+"428","March",3,"Sunday",2016,"New York, NY",69,13,0.158536585365854
+"429","March",3,"Sunday",2016,"Philadelphia, PA",290,68,0.189944134078212
+"430","March",3,"Sunday",2017,"Philadelphia, PA",311,57,0.154891304347826
+"431","March",3,"Thursday",2015,"Philadelphia, PA",138,86,0.383928571428571
+"432","March",3,"Thursday",2016,"New York, NY",176,48,0.214285714285714
+"433","March",3,"Thursday",2016,"Philadelphia, PA",420,130,0.236363636363636
+"434","March",3,"Thursday",2017,"Philadelphia, PA",668,139,0.172242874845105
+"435","March",3,"Tuesday",2015,"Philadelphia, PA",173,76,0.305220883534137
+"436","March",3,"Tuesday",2016,"New York, NY",266,114,0.3
+"437","March",3,"Tuesday",2016,"Philadelphia, PA",459,219,0.323008849557522
+"438","March",3,"Tuesday",2017,"Philadelphia, PA",724,51,0.0658064516129032
+"439","March",3,"Wednesday",2015,"Philadelphia, PA",185,81,0.304511278195489
+"440","March",3,"Wednesday",2016,"New York, NY",210,66,0.239130434782609
+"441","March",3,"Wednesday",2016,"Philadelphia, PA",504,155,0.235204855842185
+"442","March",3,"Wednesday",2017,"Philadelphia, PA",530,61,0.10321489001692
+"443","March",4,"Friday",2015,"Philadelphia, PA",230,127,0.355742296918768
+"444","March",4,"Friday",2016,"New York, NY",205,125,0.378787878787879
+"445","March",4,"Friday",2016,"Philadelphia, PA",422,163,0.278632478632479
+"446","March",4,"Friday",2017,"Philadelphia, PA",491,210,0.299572039942939
+"447","March",4,"Monday",2015,"Philadelphia, PA",161,112,0.41025641025641
+"448","March",4,"Monday",2016,"New York, NY",264,76,0.223529411764706
+"449","March",4,"Monday",2016,"Philadelphia, PA",434,97,0.182674199623352
+"450","March",4,"Monday",2017,"Philadelphia, PA",488,219,0.30975954738331
+"451","March",4,"Saturday",2015,"Philadelphia, PA",188,55,0.226337448559671
+"452","March",4,"Saturday",2016,"New York, NY",88,32,0.266666666666667
+"453","March",4,"Saturday",2016,"Philadelphia, PA",109,31,0.221428571428571
+"454","March",4,"Saturday",2017,"Philadelphia, PA",285,97,0.253926701570681
+"455","March",4,"Sunday",2015,"Philadelphia, PA",168,58,0.256637168141593
+"456","March",4,"Sunday",2016,"New York, NY",104,56,0.35
+"457","March",4,"Sunday",2016,"Philadelphia, PA",291,60,0.170940170940171
+"458","March",4,"Sunday",2017,"Philadelphia, PA",237,78,0.247619047619048
+"459","March",4,"Thursday",2015,"Philadelphia, PA",169,48,0.221198156682028
+"460","March",4,"Thursday",2016,"New York, NY",177,133,0.429032258064516
+"461","March",4,"Thursday",2016,"Philadelphia, PA",481,194,0.287407407407407
+"462","March",4,"Thursday",2017,"Philadelphia, PA",458,209,0.313343328335832
+"463","March",4,"Tuesday",2015,"Philadelphia, PA",126,55,0.303867403314917
+"464","March",4,"Tuesday",2016,"New York, NY",161,122,0.431095406360424
+"465","March",4,"Tuesday",2016,"Philadelphia, PA",178,70,0.282258064516129
+"466","March",4,"Tuesday",2017,"Philadelphia, PA",482,217,0.310443490701001
+"467","March",4,"Wednesday",2015,"Philadelphia, PA",177,94,0.346863468634686
+"468","March",4,"Wednesday",2016,"New York, NY",148,100,0.403225806451613
+"469","March",4,"Wednesday",2016,"Philadelphia, PA",275,195,0.414893617021277
+"470","March",4,"Wednesday",2017,"Philadelphia, PA",527,332,0.386495925494761
+"471","March",5,"Friday",2017,"Philadelphia, PA",434,163,0.273031825795645
+"472","March",5,"Monday",2015,"Philadelphia, PA",170,54,0.241071428571429
+"473","March",5,"Monday",2016,"New York, NY",171,91,0.347328244274809
+"474","March",5,"Monday",2016,"Philadelphia, PA",151,74,0.328888888888889
+"475","March",5,"Monday",2017,"Philadelphia, PA",352,133,0.274226804123711
+"476","March",5,"Thursday",2016,"New York, NY",118,21,0.151079136690647
+"477","March",5,"Thursday",2016,"Philadelphia, PA",151,39,0.205263157894737
+"478","March",5,"Thursday",2017,"Philadelphia, PA",393,183,0.317708333333333
+"479","March",5,"Tuesday",2015,"Philadelphia, PA",199,128,0.391437308868502
+"480","March",5,"Tuesday",2016,"New York, NY",203,90,0.307167235494881
+"481","March",5,"Tuesday",2016,"Philadelphia, PA",309,159,0.33974358974359
+"482","March",5,"Tuesday",2017,"Philadelphia, PA",471,196,0.293853073463268
+"483","March",5,"Wednesday",2016,"New York, NY",161,38,0.190954773869347
+"484","March",5,"Wednesday",2016,"Philadelphia, PA",98,67,0.406060606060606
+"485","March",5,"Wednesday",2017,"Philadelphia, PA",541,192,0.26193724420191
+"486","April",1,"Friday",2015,"Philadelphia, PA",173,107,0.382142857142857
+"487","April",1,"Friday",2016,"New York, NY",186,77,0.29277566539924
+"488","April",1,"Friday",2016,"Philadelphia, PA",299,136,0.31264367816092
+"489","April",1,"Saturday",2015,"Philadelphia, PA",105,43,0.290540540540541
+"490","April",1,"Saturday",2016,"New York, NY",125,46,0.269005847953216
+"491","April",1,"Saturday",2016,"Philadelphia, PA",122,48,0.282352941176471
+"492","April",1,"Saturday",2017,"Philadelphia, PA",395,138,0.25891181988743
+"493","April",1,"Sunday",2015,"Philadelphia, PA",271,68,0.200589970501475
+"494","April",1,"Sunday",2016,"New York, NY",17,9,0.346153846153846
+"495","April",1,"Sunday",2016,"Philadelphia, PA",287,38,0.116923076923077
+"496","April",1,"Sunday",2017,"Philadelphia, PA",343,64,0.157248157248157
+"497","April",1,"Thursday",2015,"Philadelphia, PA",245,153,0.384422110552764
+"498","April",1,"Wednesday",2015,"Philadelphia, PA",150,108,0.418604651162791
+"499","April",2,"Friday",2015,"Philadelphia, PA",164,81,0.330612244897959
+"500","April",2,"Friday",2016,"New York, NY",117,51,0.303571428571429
+"501","April",2,"Friday",2016,"Philadelphia, PA",198,73,0.269372693726937
+"502","April",2,"Friday",2017,"Philadelphia, PA",730,216,0.228329809725159
+"503","April",2,"Monday",2015,"Philadelphia, PA",154,90,0.368852459016393
+"504","April",2,"Monday",2016,"New York, NY",175,64,0.267782426778243
+"505","April",2,"Monday",2016,"Philadelphia, PA",92,21,0.185840707964602
+"506","April",2,"Monday",2017,"Philadelphia, PA",326,144,0.306382978723404
+"507","April",2,"Saturday",2015,"Philadelphia, PA",81,33,0.289473684210526
+"508","April",2,"Saturday",2016,"New York, NY",90,21,0.189189189189189
+"509","April",2,"Saturday",2016,"Philadelphia, PA",104,36,0.257142857142857
+"510","April",2,"Saturday",2017,"Philadelphia, PA",358,145,0.288270377733598
+"511","April",2,"Sunday",2015,"Philadelphia, PA",41,12,0.226415094339623
+"512","April",2,"Sunday",2016,"Philadelphia, PA",167,38,0.185365853658537
+"513","April",2,"Sunday",2017,"Philadelphia, PA",262,88,0.251428571428571
+"514","April",2,"Thursday",2015,"Philadelphia, PA",126,72,0.363636363636364
+"515","April",2,"Thursday",2016,"New York, NY",140,52,0.270833333333333
+"516","April",2,"Thursday",2016,"Philadelphia, PA",107,32,0.23021582733813
+"517","April",2,"Thursday",2017,"Philadelphia, PA",403,115,0.222007722007722
+"518","April",2,"Tuesday",2015,"Philadelphia, PA",176,76,0.301587301587302
+"519","April",2,"Tuesday",2016,"New York, NY",68,18,0.209302325581395
+"520","April",2,"Tuesday",2016,"Philadelphia, PA",156,15,0.087719298245614
+"521","April",2,"Tuesday",2017,"Philadelphia, PA",570,257,0.310761789600967
+"522","April",2,"Wednesday",2015,"Philadelphia, PA",117,73,0.384210526315789
+"523","April",2,"Wednesday",2016,"New York, NY",154,46,0.23
+"524","April",2,"Wednesday",2016,"Philadelphia, PA",227,24,0.0956175298804781
+"525","April",2,"Wednesday",2017,"Philadelphia, PA",487,171,0.259878419452888
+"526","April",3,"Friday",2015,"Philadelphia, PA",126,84,0.4
+"527","April",3,"Friday",2016,"Philadelphia, PA",184,64,0.258064516129032
+"528","April",3,"Friday",2017,"Philadelphia, PA",482,186,0.278443113772455
+"529","April",3,"Monday",2015,"Philadelphia, PA",207,108,0.342857142857143
+"530","April",3,"Monday",2016,"New York, NY",38,16,0.296296296296296
+"531","April",3,"Monday",2016,"Philadelphia, PA",161,35,0.178571428571429
+"532","April",3,"Monday",2017,"Philadelphia, PA",254,121,0.322666666666667
+"533","April",3,"Saturday",2015,"Philadelphia, PA",200,75,0.272727272727273
+"534","April",3,"Saturday",2016,"New York, NY",24,7,0.225806451612903
+"535","April",3,"Saturday",2016,"Philadelphia, PA",26,4,0.133333333333333
+"536","April",3,"Saturday",2017,"Philadelphia, PA",348,146,0.295546558704453
+"537","April",3,"Sunday",2015,"Philadelphia, PA",226,75,0.249169435215947
+"538","April",3,"Sunday",2016,"New York, NY",64,12,0.157894736842105
+"539","April",3,"Sunday",2016,"Philadelphia, PA",187,59,0.239837398373984
+"540","April",3,"Sunday",2017,"Philadelphia, PA",332,91,0.215130023640662
+"541","April",3,"Thursday",2015,"Philadelphia, PA",121,71,0.369791666666667
+"542","April",3,"Thursday",2016,"New York, NY",105,37,0.26056338028169
+"543","April",3,"Thursday",2016,"Philadelphia, PA",140,63,0.310344827586207
+"544","April",3,"Thursday",2017,"Philadelphia, PA",429,205,0.323343848580442
+"545","April",3,"Tuesday",2015,"Philadelphia, PA",111,50,0.31055900621118
+"546","April",3,"Tuesday",2016,"New York, NY",66,45,0.405405405405405
+"547","April",3,"Tuesday",2016,"Philadelphia, PA",159,54,0.253521126760563
+"548","April",3,"Tuesday",2017,"Philadelphia, PA",452,229,0.336270190895742
+"549","April",3,"Wednesday",2015,"Philadelphia, PA",234,161,0.407594936708861
+"550","April",3,"Wednesday",2016,"New York, NY",100,60,0.375
+"551","April",3,"Wednesday",2016,"Philadelphia, PA",86,31,0.264957264957265
+"552","April",3,"Wednesday",2017,"Philadelphia, PA",409,179,0.304421768707483
+"553","April",4,"Friday",2015,"Philadelphia, PA",100,80,0.444444444444444
+"554","April",4,"Friday",2016,"New York, NY",224,80,0.263157894736842
+"555","April",4,"Friday",2016,"Philadelphia, PA",72,12,0.142857142857143
+"556","April",4,"Friday",2017,"Philadelphia, PA",305,175,0.364583333333333
+"557","April",4,"Monday",2015,"Philadelphia, PA",173,41,0.191588785046729
+"558","April",4,"Monday",2016,"Philadelphia, PA",118,53,0.309941520467836
+"559","April",4,"Monday",2017,"Philadelphia, PA",258,113,0.304582210242588
+"560","April",4,"Saturday",2015,"Philadelphia, PA",114,29,0.202797202797203
+"561","April",4,"Saturday",2016,"New York, NY",186,61,0.246963562753036
+"562","April",4,"Saturday",2017,"Philadelphia, PA",316,96,0.233009708737864
+"563","April",4,"Sunday",2015,"Philadelphia, PA",293,67,0.186111111111111
+"564","April",4,"Sunday",2016,"New York, NY",113,19,0.143939393939394
+"565","April",4,"Sunday",2016,"Philadelphia, PA",21,7,0.25
+"566","April",4,"Sunday",2017,"Philadelphia, PA",353,91,0.204954954954955
+"567","April",4,"Thursday",2015,"Philadelphia, PA",124,53,0.299435028248588
+"568","April",4,"Thursday",2016,"New York, NY",204,73,0.263537906137184
+"569","April",4,"Thursday",2016,"Philadelphia, PA",110,51,0.316770186335404
+"570","April",4,"Thursday",2017,"Philadelphia, PA",371,222,0.374367622259696
+"571","April",4,"Tuesday",2015,"Philadelphia, PA",178,98,0.355072463768116
+"572","April",4,"Tuesday",2016,"New York, NY",26,8,0.235294117647059
+"573","April",4,"Tuesday",2016,"Philadelphia, PA",144,32,0.181818181818182
+"574","April",4,"Tuesday",2017,"Philadelphia, PA",428,199,0.317384370015949
+"575","April",4,"Wednesday",2015,"Philadelphia, PA",167,54,0.244343891402715
+"576","April",4,"Wednesday",2016,"New York, NY",115,20,0.148148148148148
+"577","April",4,"Wednesday",2016,"Philadelphia, PA",127,36,0.220858895705521
+"578","April",4,"Wednesday",2017,"Philadelphia, PA",402,177,0.305699481865285
+"579","April",5,"Friday",2016,"New York, NY",89,23,0.205357142857143
+"580","April",5,"Friday",2016,"Philadelphia, PA",343,133,0.279411764705882
+"581","April",5,"Friday",2017,"Philadelphia, PA",223,45,0.167910447761194
+"582","April",5,"Monday",2015,"Philadelphia, PA",165,82,0.331983805668016
+"583","April",5,"Monday",2016,"New York, NY",109,52,0.322981366459627
+"584","April",5,"Monday",2016,"Philadelphia, PA",23,4,0.148148148148148
+"585","April",5,"Monday",2017,"Philadelphia, PA",402,138,0.255555555555556
+"586","April",5,"Saturday",2016,"New York, NY",63,20,0.240963855421687
+"587","April",5,"Saturday",2016,"Philadelphia, PA",197,44,0.182572614107884
+"588","April",5,"Thursday",2015,"Philadelphia, PA",301,131,0.303240740740741
+"589","April",5,"Thursday",2016,"New York, NY",170,93,0.35361216730038
+"590","April",5,"Thursday",2016,"Philadelphia, PA",290,108,0.271356783919598
+"591","April",5,"Thursday",2017,"Philadelphia, PA",248,119,0.32425068119891
+"592","April",5,"Tuesday",2015,"Philadelphia, PA",168,83,0.330677290836653
+"593","April",5,"Tuesday",2016,"New York, NY",75,35,0.318181818181818
+"594","April",5,"Tuesday",2016,"Philadelphia, PA",109,24,0.180451127819549
+"595","April",5,"Tuesday",2017,"Philadelphia, PA",206,91,0.306397306397306
+"596","April",5,"Wednesday",2015,"Philadelphia, PA",136,112,0.451612903225806
+"597","April",5,"Wednesday",2016,"New York, NY",115,18,0.135338345864662
+"598","April",5,"Wednesday",2016,"Philadelphia, PA",406,180,0.307167235494881
+"599","April",5,"Wednesday",2017,"Philadelphia, PA",92,68,0.425
+"600","May",1,"Friday",2015,"Philadelphia, PA",252,120,0.32258064516129
+"601","May",1,"Friday",2017,"Philadelphia, PA",331,148,0.308977035490605
+"602","May",1,"Saturday",2015,"Philadelphia, PA",212,76,0.263888888888889
+"603","May",1,"Saturday",2017,"Philadelphia, PA",229,79,0.256493506493506
+"604","May",1,"Sunday",2015,"Philadelphia, PA",208,44,0.174603174603175
+"605","May",1,"Sunday",2016,"New York, NY",24,4,0.142857142857143
+"606","May",1,"Sunday",2016,"Philadelphia, PA",418,46,0.0991379310344828
+"607","May",1,"Sunday",2017,"Philadelphia, PA",301,64,0.175342465753425
+"608","May",2,"Friday",2015,"Philadelphia, PA",356,142,0.285140562248996
+"609","May",2,"Friday",2016,"Philadelphia, PA",250,106,0.297752808988764
+"610","May",2,"Friday",2017,"Philadelphia, PA",377,108,0.222680412371134
+"611","May",2,"Monday",2015,"Philadelphia, PA",216,88,0.289473684210526
+"612","May",2,"Monday",2016,"Philadelphia, PA",435,107,0.197416974169742
+"613","May",2,"Monday",2017,"Philadelphia, PA",417,147,0.26063829787234
+"614","May",2,"Saturday",2015,"Philadelphia, PA",269,71,0.208823529411765
+"615","May",2,"Saturday",2016,"Philadelphia, PA",431,83,0.16147859922179
+"616","May",2,"Saturday",2017,"Philadelphia, PA",188,29,0.133640552995392
+"617","May",2,"Sunday",2015,"Philadelphia, PA",264,51,0.161904761904762
+"618","May",2,"Sunday",2016,"Philadelphia, PA",264,37,0.122923588039867
+"619","May",2,"Sunday",2017,"Philadelphia, PA",251,44,0.149152542372881
+"620","May",2,"Thursday",2015,"Philadelphia, PA",296,162,0.353711790393013
+"621","May",2,"Thursday",2016,"Philadelphia, PA",514,248,0.325459317585302
+"622","May",2,"Thursday",2017,"Philadelphia, PA",504,256,0.336842105263158
+"623","May",2,"Tuesday",2015,"Philadelphia, PA",314,122,0.279816513761468
+"624","May",2,"Tuesday",2016,"Philadelphia, PA",370,143,0.278752436647173
+"625","May",2,"Tuesday",2017,"Philadelphia, PA",193,143,0.425595238095238
+"626","May",2,"Wednesday",2015,"Philadelphia, PA",284,168,0.371681415929204
+"627","May",2,"Wednesday",2016,"Philadelphia, PA",402,156,0.279569892473118
+"628","May",2,"Wednesday",2017,"Philadelphia, PA",438,200,0.313479623824451
+"629","May",3,"Friday",2015,"Philadelphia, PA",329,92,0.218527315914489
+"630","May",3,"Friday",2016,"Philadelphia, PA",377,130,0.256410256410256
+"631","May",3,"Monday",2015,"Philadelphia, PA",204,95,0.317725752508361
+"632","May",3,"Monday",2016,"Philadelphia, PA",174,76,0.304
+"633","May",3,"Monday",2017,"Philadelphia, PA",335,62,0.156171284634761
+"634","May",3,"Saturday",2015,"Philadelphia, PA",198,44,0.181818181818182
+"635","May",3,"Saturday",2016,"Philadelphia, PA",226,42,0.156716417910448
+"636","May",3,"Sunday",2015,"Philadelphia, PA",183,19,0.0940594059405941
+"637","May",3,"Sunday",2016,"Philadelphia, PA",244,47,0.161512027491409
+"638","May",3,"Thursday",2015,"Philadelphia, PA",528,73,0.121464226289517
+"639","May",3,"Thursday",2016,"Philadelphia, PA",336,138,0.291139240506329
+"640","May",3,"Tuesday",2015,"Philadelphia, PA",365,129,0.261133603238866
+"641","May",3,"Tuesday",2016,"Philadelphia, PA",371,142,0.276803118908382
+"642","May",3,"Tuesday",2017,"Philadelphia, PA",366,160,0.304182509505703
+"643","May",3,"Wednesday",2015,"Philadelphia, PA",509,32,0.0591497227356747
+"644","May",3,"Wednesday",2016,"Philadelphia, PA",283,117,0.2925
+"645","May",3,"Wednesday",2017,"Philadelphia, PA",465,244,0.344146685472496
+"646","May",4,"Friday",2015,"Philadelphia, PA",269,121,0.31025641025641
+"647","May",4,"Friday",2016,"Philadelphia, PA",369,178,0.325411334552102
+"648","May",4,"Monday",2015,"Philadelphia, PA",529,69,0.115384615384615
+"649","May",4,"Monday",2016,"Philadelphia, PA",257,88,0.255072463768116
+"650","May",4,"Saturday",2015,"Philadelphia, PA",231,43,0.156934306569343
+"651","May",4,"Saturday",2016,"Philadelphia, PA",101,32,0.240601503759398
+"652","May",4,"Sunday",2015,"Philadelphia, PA",243,36,0.129032258064516
+"653","May",4,"Sunday",2016,"Philadelphia, PA",237,53,0.182758620689655
+"654","May",4,"Thursday",2015,"Philadelphia, PA",232,139,0.37466307277628
+"655","May",4,"Thursday",2016,"Philadelphia, PA",259,79,0.233727810650888
+"656","May",4,"Tuesday",2015,"Philadelphia, PA",231,86,0.271293375394322
+"657","May",4,"Tuesday",2016,"Philadelphia, PA",301,117,0.279904306220096
+"658","May",4,"Wednesday",2015,"Philadelphia, PA",272,76,0.218390804597701
+"659","May",4,"Wednesday",2016,"Philadelphia, PA",359,103,0.222943722943723
+"660","May",5,"Friday",2015,"Philadelphia, PA",239,112,0.319088319088319
+"661","May",5,"Friday",2016,"Philadelphia, PA",419,81,0.162
+"662","May",5,"Monday",2015,"Philadelphia, PA",328,54,0.141361256544503
+"663","May",5,"Monday",2016,"Philadelphia, PA",372,147,0.283236994219653
+"664","May",5,"Saturday",2015,"Philadelphia, PA",208,71,0.254480286738351
+"665","May",5,"Saturday",2016,"Philadelphia, PA",239,34,0.124542124542125
+"666","May",5,"Sunday",2015,"Philadelphia, PA",91,13,0.125
+"667","May",5,"Sunday",2016,"Philadelphia, PA",237,35,0.128676470588235
+"668","May",5,"Thursday",2015,"Philadelphia, PA",336,158,0.319838056680162
+"669","May",5,"Thursday",2016,"Philadelphia, PA",345,131,0.275210084033613
+"670","May",5,"Tuesday",2015,"Philadelphia, PA",249,106,0.298591549295775
+"671","May",5,"Tuesday",2016,"Philadelphia, PA",356,190,0.347985347985348
+"672","May",5,"Wednesday",2015,"Philadelphia, PA",240,158,0.396984924623116
+"673","May",5,"Wednesday",2016,"Philadelphia, PA",388,129,0.249516441005803
+"674","May",6,"Monday",2016,"Philadelphia, PA",380,59,0.134396355353075
+"675","May",6,"Tuesday",2016,"Philadelphia, PA",211,99,0.319354838709677
+"676","June",1,"Friday",2015,"Philadelphia, PA",212,77,0.26643598615917
+"677","June",1,"Friday",2016,"Philadelphia, PA",366,172,0.319702602230483
+"678","June",1,"Friday",2017,"Philadelphia, PA",542,222,0.290575916230366
+"679","June",1,"Monday",2015,"Philadelphia, PA",70,9,0.113924050632911
+"680","June",1,"Saturday",2015,"Philadelphia, PA",242,47,0.162629757785467
+"681","June",1,"Saturday",2016,"Philadelphia, PA",285,54,0.15929203539823
+"682","June",1,"Saturday",2017,"Philadelphia, PA",263,96,0.267409470752089
+"683","June",1,"Sunday",2014,"Philadelphia, PA",46,10,0.178571428571429
+"684","June",1,"Sunday",2015,"Philadelphia, PA",276,58,0.173652694610778
+"685","June",1,"Sunday",2016,"Philadelphia, PA",257,17,0.062043795620438
+"686","June",1,"Sunday",2017,"Philadelphia, PA",347,194,0.358595194085028
+"687","June",1,"Thursday",2015,"Philadelphia, PA",121,49,0.288235294117647
+"688","June",1,"Thursday",2016,"Philadelphia, PA",325,141,0.302575107296137
+"689","June",1,"Thursday",2017,"Philadelphia, PA",330,181,0.354207436399217
+"690","June",1,"Tuesday",2015,"Philadelphia, PA",267,65,0.19578313253012
+"691","June",1,"Wednesday",2015,"Philadelphia, PA",393,182,0.316521739130435
+"692","June",1,"Wednesday",2016,"Philadelphia, PA",304,112,0.269230769230769
+"693","June",2,"Friday",2014,"Philadelphia, PA",184,104,0.361111111111111
+"694","June",2,"Friday",2015,"Philadelphia, PA",289,94,0.245430809399478
+"695","June",2,"Friday",2016,"Philadelphia, PA",370,148,0.285714285714286
+"696","June",2,"Friday",2017,"Philadelphia, PA",467,228,0.328057553956835
+"697","June",2,"Monday",2015,"Philadelphia, PA",244,140,0.364583333333333
+"698","June",2,"Monday",2016,"Philadelphia, PA",207,71,0.255395683453237
+"699","June",2,"Monday",2017,"Philadelphia, PA",452,296,0.39572192513369
+"700","June",2,"Saturday",2014,"Philadelphia, PA",50,4,0.0740740740740741
+"701","June",2,"Saturday",2015,"Philadelphia, PA",228,76,0.25
+"702","June",2,"Saturday",2016,"Philadelphia, PA",308,129,0.295194508009153
+"703","June",2,"Saturday",2017,"Philadelphia, PA",297,93,0.238461538461538
+"704","June",2,"Sunday",2014,"Philadelphia, PA",100,36,0.264705882352941
+"705","June",2,"Sunday",2015,"Philadelphia, PA",242,67,0.216828478964401
+"706","June",2,"Sunday",2016,"Philadelphia, PA",140,35,0.2
+"707","June",2,"Sunday",2017,"Philadelphia, PA",21,5,0.192307692307692
+"708","June",2,"Thursday",2014,"Philadelphia, PA",79,32,0.288288288288288
+"709","June",2,"Thursday",2015,"Philadelphia, PA",139,82,0.3710407239819
+"710","June",2,"Thursday",2016,"Philadelphia, PA",280,76,0.213483146067416
+"711","June",2,"Thursday",2017,"Philadelphia, PA",435,198,0.312796208530806
+"712","June",2,"Tuesday",2014,"Philadelphia, PA",52,24,0.315789473684211
+"713","June",2,"Tuesday",2015,"Philadelphia, PA",307,161,0.344017094017094
+"714","June",2,"Tuesday",2016,"Philadelphia, PA",497,245,0.330188679245283
+"715","June",2,"Tuesday",2017,"Philadelphia, PA",393,240,0.37914691943128
+"716","June",2,"Wednesday",2014,"Philadelphia, PA",82,50,0.378787878787879
+"717","June",2,"Wednesday",2015,"Philadelphia, PA",196,106,0.350993377483444
+"718","June",2,"Wednesday",2016,"Philadelphia, PA",340,121,0.262472885032538
+"719","June",2,"Wednesday",2017,"Philadelphia, PA",317,214,0.4030131826742
+"720","June",3,"Friday",2014,"Philadelphia, PA",257,91,0.261494252873563
+"721","June",3,"Friday",2015,"Philadelphia, PA",249,105,0.296610169491525
+"722","June",3,"Friday",2016,"Philadelphia, PA",238,152,0.38974358974359
+"723","June",3,"Friday",2017,"Philadelphia, PA",480,246,0.338842975206612
+"724","June",3,"Monday",2014,"Philadelphia, PA",133,54,0.288770053475936
+"725","June",3,"Monday",2015,"Philadelphia, PA",168,54,0.243243243243243
+"726","June",3,"Monday",2016,"Philadelphia, PA",118,147,0.554716981132075
+"727","June",3,"Monday",2017,"Philadelphia, PA",185,112,0.377104377104377
+"728","June",3,"Saturday",2014,"Philadelphia, PA",21,6,0.222222222222222
+"729","June",3,"Saturday",2015,"Philadelphia, PA",320,112,0.259259259259259
+"730","June",3,"Saturday",2016,"Philadelphia, PA",193,102,0.345762711864407
+"731","June",3,"Saturday",2017,"Philadelphia, PA",319,122,0.276643990929705
+"732","June",3,"Sunday",2014,"Philadelphia, PA",57,29,0.337209302325581
+"733","June",3,"Sunday",2015,"Philadelphia, PA",138,54,0.28125
+"734","June",3,"Sunday",2016,"Philadelphia, PA",82,26,0.240740740740741
+"735","June",3,"Sunday",2017,"Philadelphia, PA",354,139,0.281947261663286
+"736","June",3,"Thursday",2014,"Philadelphia, PA",208,79,0.275261324041812
+"737","June",3,"Thursday",2015,"Philadelphia, PA",450,251,0.358059914407989
+"738","June",3,"Thursday",2016,"Philadelphia, PA",344,193,0.359404096834264
+"739","June",3,"Thursday",2017,"Philadelphia, PA",381,225,0.371287128712871
+"740","June",3,"Tuesday",2014,"Philadelphia, PA",257,66,0.204334365325077
+"741","June",3,"Tuesday",2015,"Philadelphia, PA",238,61,0.204013377926421
+"742","June",3,"Tuesday",2016,"Philadelphia, PA",199,249,0.555803571428571
+"743","June",3,"Tuesday",2017,"Philadelphia, PA",326,142,0.303418803418803
+"744","June",3,"Wednesday",2014,"Philadelphia, PA",138,73,0.345971563981043
+"745","June",3,"Wednesday",2015,"Philadelphia, PA",207,99,0.323529411764706
+"746","June",3,"Wednesday",2016,"Philadelphia, PA",200,127,0.388379204892966
+"747","June",3,"Wednesday",2017,"Philadelphia, PA",428,286,0.400560224089636
+"748","June",4,"Friday",2014,"Philadelphia, PA",146,92,0.38655462184874
+"749","June",4,"Friday",2015,"Philadelphia, PA",277,97,0.259358288770053
+"750","June",4,"Friday",2016,"Philadelphia, PA",197,84,0.298932384341637
+"751","June",4,"Friday",2017,"Philadelphia, PA",452,130,0.223367697594502
+"752","June",4,"Monday",2014,"Philadelphia, PA",263,132,0.334177215189873
+"753","June",4,"Monday",2015,"Philadelphia, PA",215,116,0.350453172205438
+"754","June",4,"Monday",2016,"Philadelphia, PA",356,179,0.334579439252336
+"755","June",4,"Monday",2017,"Philadelphia, PA",337,129,0.276824034334764
+"756","June",4,"Saturday",2014,"Philadelphia, PA",144,45,0.238095238095238
+"757","June",4,"Saturday",2015,"Philadelphia, PA",109,35,0.243055555555556
+"758","June",4,"Saturday",2016,"New York, NY",49,6,0.109090909090909
+"759","June",4,"Saturday",2016,"Philadelphia, PA",174,81,0.317647058823529
+"760","June",4,"Saturday",2017,"Philadelphia, PA",409,96,0.19009900990099
+"761","June",4,"Sunday",2014,"Philadelphia, PA",89,19,0.175925925925926
+"762","June",4,"Sunday",2015,"Philadelphia, PA",230,48,0.172661870503597
+"763","June",4,"Sunday",2016,"New York, NY",14,10,0.416666666666667
+"764","June",4,"Sunday",2016,"Philadelphia, PA",274,72,0.208092485549133
+"765","June",4,"Sunday",2017,"Philadelphia, PA",441,93,0.174157303370787
+"766","June",4,"Thursday",2014,"Philadelphia, PA",179,109,0.378472222222222
+"767","June",4,"Thursday",2015,"Philadelphia, PA",432,86,0.166023166023166
+"768","June",4,"Thursday",2016,"Philadelphia, PA",367,106,0.224101479915433
+"769","June",4,"Thursday",2017,"Philadelphia, PA",518,197,0.275524475524476
+"770","June",4,"Tuesday",2014,"Philadelphia, PA",85,54,0.388489208633094
+"771","June",4,"Tuesday",2015,"Philadelphia, PA",284,156,0.354545454545455
+"772","June",4,"Tuesday",2016,"Philadelphia, PA",267,154,0.365795724465558
+"773","June",4,"Tuesday",2017,"Philadelphia, PA",402,157,0.280858676207513
+"774","June",4,"Wednesday",2014,"Philadelphia, PA",191,122,0.389776357827476
+"775","June",4,"Wednesday",2015,"Philadelphia, PA",529,87,0.141233766233766
+"776","June",4,"Wednesday",2016,"Philadelphia, PA",448,146,0.245791245791246
+"777","June",4,"Wednesday",2017,"Philadelphia, PA",479,223,0.317663817663818
+"778","June",5,"Friday",2017,"Philadelphia, PA",471,179,0.275384615384615
+"779","June",5,"Monday",2014,"Philadelphia, PA",181,65,0.264227642276423
+"780","June",5,"Monday",2015,"Philadelphia, PA",225,69,0.23469387755102
+"781","June",5,"Monday",2016,"Philadelphia, PA",418,130,0.237226277372263
+"782","June",5,"Monday",2017,"Philadelphia, PA",338,112,0.248888888888889
+"783","June",5,"Thursday",2016,"Philadelphia, PA",315,120,0.275862068965517
+"784","June",5,"Thursday",2017,"Philadelphia, PA",342,205,0.374771480804388
+"785","June",5,"Tuesday",2015,"Philadelphia, PA",230,117,0.337175792507205
+"786","June",5,"Tuesday",2016,"Philadelphia, PA",291,96,0.248062015503876
+"787","June",5,"Tuesday",2017,"Philadelphia, PA",463,210,0.312035661218425
+"788","June",5,"Wednesday",2016,"Philadelphia, PA",498,215,0.301542776998597
+"789","June",5,"Wednesday",2017,"Philadelphia, PA",461,237,0.339541547277937
+"790","July",1,"Friday",2014,"Philadelphia, PA",332,33,0.0904109589041096
+"791","July",1,"Friday",2015,"Philadelphia, PA",273,120,0.305343511450382
+"792","July",1,"Friday",2016,"Philadelphia, PA",482,131,0.213703099510604
+"793","July",1,"Saturday",2014,"Philadelphia, PA",197,27,0.120535714285714
+"794","July",1,"Saturday",2015,"Philadelphia, PA",308,47,0.132394366197183
+"795","July",1,"Saturday",2016,"Philadelphia, PA",161,36,0.182741116751269
+"796","July",1,"Saturday",2017,"Philadelphia, PA",408,102,0.2
+"797","July",1,"Sunday",2014,"Philadelphia, PA",97,16,0.141592920353982
+"798","July",1,"Sunday",2015,"Philadelphia, PA",208,39,0.157894736842105
+"799","July",1,"Sunday",2016,"Philadelphia, PA",265,56,0.174454828660436
+"800","July",1,"Sunday",2017,"Philadelphia, PA",391,101,0.205284552845528
+"801","July",1,"Thursday",2014,"Philadelphia, PA",122,43,0.260606060606061
+"802","July",1,"Thursday",2015,"Philadelphia, PA",313,101,0.243961352657005
+"803","July",1,"Tuesday",2014,"Philadelphia, PA",205,87,0.297945205479452
+"804","July",1,"Wednesday",2014,"Philadelphia, PA",236,107,0.311953352769679
+"805","July",1,"Wednesday",2015,"Philadelphia, PA",361,82,0.18510158013544
+"806","July",2,"Friday",2014,"Philadelphia, PA",111,49,0.30625
+"807","July",2,"Friday",2015,"Philadelphia, PA",317,100,0.239808153477218
+"808","July",2,"Friday",2016,"Philadelphia, PA",265,246,0.481409001956947
+"809","July",2,"Friday",2017,"Philadelphia, PA",345,140,0.288659793814433
+"810","July",2,"Monday",2014,"Philadelphia, PA",183,91,0.332116788321168
+"811","July",2,"Monday",2015,"Philadelphia, PA",340,108,0.241071428571429
+"812","July",2,"Monday",2016,"Philadelphia, PA",251,76,0.232415902140673
+"813","July",2,"Monday",2017,"Philadelphia, PA",608,130,0.176151761517615
+"814","July",2,"Saturday",2014,"Philadelphia, PA",192,50,0.206611570247934
+"815","July",2,"Saturday",2015,"Philadelphia, PA",181,39,0.177272727272727
+"816","July",2,"Saturday",2016,"Philadelphia, PA",295,136,0.31554524361949
+"817","July",2,"Saturday",2017,"Philadelphia, PA",299,107,0.263546798029557
+"818","July",2,"Sunday",2014,"Philadelphia, PA",117,22,0.158273381294964
+"819","July",2,"Sunday",2015,"Philadelphia, PA",251,75,0.230061349693252
+"820","July",2,"Sunday",2016,"Philadelphia, PA",222,86,0.279220779220779
+"821","July",2,"Sunday",2017,"Philadelphia, PA",384,93,0.19496855345912
+"822","July",2,"Thursday",2014,"Philadelphia, PA",236,140,0.372340425531915
+"823","July",2,"Thursday",2015,"Philadelphia, PA",170,64,0.273504273504274
+"824","July",2,"Thursday",2016,"Philadelphia, PA",174,85,0.328185328185328
+"825","July",2,"Thursday",2017,"Philadelphia, PA",582,201,0.256704980842912
+"826","July",2,"Tuesday",2014,"Philadelphia, PA",165,103,0.384328358208955
+"827","July",2,"Tuesday",2015,"Philadelphia, PA",251,129,0.339473684210526
+"828","July",2,"Tuesday",2016,"Philadelphia, PA",572,133,0.188652482269504
+"829","July",2,"Tuesday",2017,"Philadelphia, PA",520,62,0.106529209621993
+"830","July",2,"Wednesday",2014,"Philadelphia, PA",258,66,0.203703703703704
+"831","July",2,"Wednesday",2015,"Philadelphia, PA",386,146,0.274436090225564
+"832","July",2,"Wednesday",2016,"Philadelphia, PA",327,134,0.290672451193059
+"833","July",2,"Wednesday",2017,"Philadelphia, PA",441,99,0.183333333333333
+"834","July",3,"Friday",2014,"Philadelphia, PA",279,99,0.261904761904762
+"835","July",3,"Friday",2015,"Philadelphia, PA",197,165,0.455801104972376
+"836","July",3,"Friday",2016,"Philadelphia, PA",404,198,0.32890365448505
+"837","July",3,"Friday",2017,"Philadelphia, PA",487,270,0.35667107001321
+"838","July",3,"Monday",2014,"Philadelphia, PA",97,39,0.286764705882353
+"839","July",3,"Monday",2015,"Philadelphia, PA",244,126,0.340540540540541
+"840","July",3,"Monday",2016,"Philadelphia, PA",387,179,0.316254416961131
+"841","July",3,"Monday",2017,"Philadelphia, PA",636,224,0.26046511627907
+"842","July",3,"Saturday",2014,"Philadelphia, PA",226,22,0.0887096774193548
+"843","July",3,"Saturday",2015,"Philadelphia, PA",206,104,0.335483870967742
+"844","July",3,"Saturday",2016,"Philadelphia, PA",215,89,0.292763157894737
+"845","July",3,"Saturday",2017,"Philadelphia, PA",269,132,0.329177057356608
+"846","July",3,"Sunday",2014,"Philadelphia, PA",40,12,0.230769230769231
+"847","July",3,"Sunday",2015,"Philadelphia, PA",361,83,0.186936936936937
+"848","July",3,"Sunday",2016,"Philadelphia, PA",402,118,0.226923076923077
+"849","July",3,"Thursday",2014,"Philadelphia, PA",206,108,0.343949044585987
+"850","July",3,"Thursday",2015,"Philadelphia, PA",240,104,0.302325581395349
+"851","July",3,"Thursday",2016,"Philadelphia, PA",454,87,0.160813308687616
+"852","July",3,"Thursday",2017,"Philadelphia, PA",495,266,0.349540078843627
+"853","July",3,"Tuesday",2014,"Philadelphia, PA",218,54,0.198529411764706
+"854","July",3,"Tuesday",2015,"Philadelphia, PA",179,80,0.308880308880309
+"855","July",3,"Tuesday",2016,"Philadelphia, PA",330,197,0.373814041745731
+"856","July",3,"Tuesday",2017,"Philadelphia, PA",577,268,0.317159763313609
+"857","July",3,"Wednesday",2014,"Philadelphia, PA",518,110,0.17515923566879
+"858","July",3,"Wednesday",2015,"Philadelphia, PA",195,74,0.275092936802974
+"859","July",3,"Wednesday",2016,"Philadelphia, PA",324,136,0.295652173913043
+"860","July",3,"Wednesday",2017,"Philadelphia, PA",399,213,0.348039215686274
+"861","July",4,"Friday",2014,"Philadelphia, PA",184,151,0.450746268656716
+"862","July",4,"Friday",2015,"Philadelphia, PA",152,116,0.432835820895522
+"863","July",4,"Friday",2016,"Philadelphia, PA",424,88,0.171875
+"864","July",4,"Friday",2017,"Philadelphia, PA",418,152,0.266666666666667
+"865","July",4,"Monday",2014,"Philadelphia, PA",222,51,0.186813186813187
+"866","July",4,"Monday",2015,"Philadelphia, PA",242,92,0.275449101796407
+"867","July",4,"Monday",2016,"Philadelphia, PA",337,154,0.313645621181263
+"868","July",4,"Saturday",2014,"Philadelphia, PA",85,49,0.365671641791045
+"869","July",4,"Saturday",2015,"Philadelphia, PA",105,56,0.347826086956522
+"870","July",4,"Saturday",2016,"Philadelphia, PA",264,68,0.204819277108434
+"871","July",4,"Saturday",2017,"Philadelphia, PA",238,76,0.24203821656051
+"872","July",4,"Sunday",2014,"Philadelphia, PA",109,25,0.186567164179104
+"873","July",4,"Sunday",2015,"Philadelphia, PA",141,46,0.245989304812834
+"874","July",4,"Sunday",2016,"Philadelphia, PA",315,19,0.0568862275449102
+"875","July",4,"Sunday",2017,"Philadelphia, PA",242,81,0.25077399380805
+"876","July",4,"Thursday",2014,"Philadelphia, PA",303,105,0.257352941176471
+"877","July",4,"Thursday",2015,"Philadelphia, PA",294,180,0.379746835443038
+"878","July",4,"Thursday",2016,"Philadelphia, PA",435,96,0.180790960451977
+"879","July",4,"Thursday",2017,"Philadelphia, PA",314,202,0.391472868217054
+"880","July",4,"Tuesday",2014,"Philadelphia, PA",126,57,0.311475409836066
+"881","July",4,"Tuesday",2016,"Philadelphia, PA",324,114,0.26027397260274
+"882","July",4,"Wednesday",2014,"Philadelphia, PA",254,110,0.302197802197802
+"883","July",4,"Wednesday",2015,"Philadelphia, PA",52,27,0.341772151898734
+"884","July",4,"Wednesday",2016,"Philadelphia, PA",599,140,0.189445196211096
+"885","July",5,"Friday",2015,"Philadelphia, PA",163,88,0.350597609561753
+"886","July",5,"Friday",2016,"Boston, MA",529,207,0.28125
+"887","July",5,"Friday",2016,"New York, NY",89,24,0.212389380530973
+"888","July",5,"Friday",2016,"Philadelphia, PA",559,92,0.141321044546851
+"889","July",5,"Friday",2017,"Philadelphia, PA",442,88,0.166037735849057
+"890","July",5,"Monday",2014,"Philadelphia, PA",223,13,0.0550847457627119
+"891","July",5,"Monday",2015,"Philadelphia, PA",327,155,0.321576763485477
+"892","July",5,"Monday",2016,"Philadelphia, PA",486,70,0.12589928057554
+"893","July",5,"Monday",2017,"Philadelphia, PA",421,109,0.205660377358491
+"894","July",5,"Saturday",2016,"Boston, MA",72,39,0.351351351351351
+"895","July",5,"Saturday",2016,"New York, NY",42,18,0.3
+"896","July",5,"Saturday",2016,"Philadelphia, PA",252,62,0.197452229299363
+"897","July",5,"Saturday",2017,"Philadelphia, PA",432,62,0.125506072874494
+"898","July",5,"Sunday",2016,"Boston, MA",174,34,0.163461538461538
+"899","July",5,"Sunday",2016,"New York, NY",20,4,0.166666666666667
+"900","July",5,"Sunday",2016,"Philadelphia, PA",145,21,0.126506024096386
+"901","July",5,"Sunday",2017,"Philadelphia, PA",275,67,0.195906432748538
+"902","July",5,"Thursday",2014,"Philadelphia, PA",123,85,0.408653846153846
+"903","July",5,"Thursday",2015,"Philadelphia, PA",335,188,0.359464627151052
+"904","July",5,"Thursday",2016,"Boston, MA",405,152,0.272890484739677
+"905","July",5,"Thursday",2016,"Philadelphia, PA",612,85,0.121951219512195
+"906","July",5,"Thursday",2017,"Philadelphia, PA",473,172,0.266666666666667
+"907","July",5,"Tuesday",2014,"Philadelphia, PA",182,29,0.137440758293839
+"908","July",5,"Tuesday",2015,"Philadelphia, PA",379,177,0.318345323741007
+"909","July",5,"Tuesday",2016,"Philadelphia, PA",466,63,0.119092627599244
+"910","July",5,"Tuesday",2017,"Philadelphia, PA",441,164,0.271074380165289
+"911","July",5,"Wednesday",2014,"Philadelphia, PA",329,64,0.162849872773537
+"912","July",5,"Wednesday",2015,"Philadelphia, PA",329,182,0.356164383561644
+"913","July",5,"Wednesday",2016,"Boston, MA",163,58,0.262443438914027
+"914","July",5,"Wednesday",2016,"Philadelphia, PA",446,80,0.152091254752852
+"915","July",5,"Wednesday",2017,"Philadelphia, PA",419,174,0.293423271500843
+"916","July",6,"Monday",2017,"Philadelphia, PA",478,175,0.267993874425727
+"917","Aug.",1,"Friday",2014,"Philadelphia, PA",219,37,0.14453125
+"918","Aug.",1,"Friday",2016,"Boston, MA",349,133,0.275933609958506
+"919","Aug.",1,"Friday",2016,"New York, NY",38,25,0.396825396825397
+"920","Aug.",1,"Friday",2016,"Philadelphia, PA",335,147,0.304979253112033
+"921","Aug.",1,"Friday",2017,"Philadelphia, PA",478,144,0.231511254019293
+"922","Aug.",1,"Monday",2016,"Boston, MA",511,187,0.267908309455587
+"923","Aug.",1,"Monday",2016,"New York, NY",36,19,0.345454545454545
+"924","Aug.",1,"Monday",2016,"Philadelphia, PA",443,149,0.251689189189189
+"925","Aug.",1,"Saturday",2014,"Philadelphia, PA",133,56,0.296296296296296
+"926","Aug.",1,"Saturday",2015,"New York, NY",23,6,0.206896551724138
+"927","Aug.",1,"Saturday",2015,"Philadelphia, PA",269,91,0.252777777777778
+"928","Aug.",1,"Saturday",2016,"Boston, MA",230,86,0.272151898734177
+"929","Aug.",1,"Saturday",2016,"New York, NY",15,12,0.444444444444444
+"930","Aug.",1,"Saturday",2016,"Philadelphia, PA",313,135,0.301339285714286
+"931","Aug.",1,"Saturday",2017,"Philadelphia, PA",209,77,0.269230769230769
+"932","Aug.",1,"Sunday",2014,"Philadelphia, PA",288,36,0.111111111111111
+"933","Aug.",1,"Sunday",2015,"New York, NY",54,1,0.0181818181818182
+"934","Aug.",1,"Sunday",2015,"Philadelphia, PA",429,89,0.171814671814672
+"935","Aug.",1,"Sunday",2016,"Boston, MA",48,10,0.172413793103448
+"936","Aug.",1,"Sunday",2016,"Philadelphia, PA",82,22,0.211538461538462
+"937","Aug.",1,"Sunday",2017,"Philadelphia, PA",342,96,0.219178082191781
+"938","Aug.",1,"Thursday",2016,"Boston, MA",298,89,0.229974160206718
+"939","Aug.",1,"Thursday",2016,"Philadelphia, PA",371,152,0.290630975143403
+"940","Aug.",1,"Thursday",2017,"Philadelphia, PA",530,212,0.285714285714286
+"941","Aug.",1,"Tuesday",2016,"Boston, MA",317,135,0.298672566371681
+"942","Aug.",1,"Tuesday",2016,"New York, NY",23,4,0.148148148148148
+"943","Aug.",1,"Tuesday",2016,"Philadelphia, PA",190,61,0.243027888446215
+"944","Aug.",1,"Tuesday",2017,"Philadelphia, PA",415,144,0.257602862254025
+"945","Aug.",1,"Wednesday",2016,"Boston, MA",276,142,0.339712918660287
+"946","Aug.",1,"Wednesday",2016,"New York, NY",125,16,0.113475177304965
+"947","Aug.",1,"Wednesday",2016,"Philadelphia, PA",408,113,0.216890595009597
+"948","Aug.",1,"Wednesday",2017,"Philadelphia, PA",437,221,0.335866261398176
+"949","Aug.",2,"Friday",2014,"Philadelphia, PA",219,95,0.302547770700637
+"950","Aug.",2,"Friday",2015,"New York, NY",160,29,0.153439153439153
+"951","Aug.",2,"Friday",2015,"Philadelphia, PA",253,159,0.385922330097087
+"952","Aug.",2,"Friday",2016,"Boston, MA",216,84,0.28
+"953","Aug.",2,"Friday",2016,"New York, NY",55,9,0.140625
+"954","Aug.",2,"Friday",2016,"Philadelphia, PA",127,44,0.257309941520468
+"955","Aug.",2,"Friday",2017,"Philadelphia, PA",276,130,0.320197044334975
+"956","Aug.",2,"Monday",2014,"Philadelphia, PA",179,97,0.351449275362319
+"957","Aug.",2,"Monday",2015,"New York, NY",70,15,0.176470588235294
+"958","Aug.",2,"Monday",2015,"Philadelphia, PA",259,75,0.224550898203593
+"959","Aug.",2,"Monday",2016,"Boston, MA",235,118,0.334277620396601
+"960","Aug.",2,"Monday",2016,"Philadelphia, PA",218,93,0.29903536977492
+"961","Aug.",2,"Monday",2017,"Philadelphia, PA",418,98,0.189922480620155
+"962","Aug.",2,"Saturday",2014,"Philadelphia, PA",75,35,0.318181818181818
+"963","Aug.",2,"Saturday",2015,"New York, NY",74,34,0.314814814814815
+"964","Aug.",2,"Saturday",2015,"Philadelphia, PA",251,113,0.31043956043956
+"965","Aug.",2,"Saturday",2016,"Boston, MA",102,31,0.233082706766917
+"966","Aug.",2,"Saturday",2016,"New York, NY",82,7,0.0786516853932584
+"967","Aug.",2,"Saturday",2016,"Philadelphia, PA",156,51,0.246376811594203
+"968","Aug.",2,"Saturday",2017,"Philadelphia, PA",244,94,0.27810650887574
+"969","Aug.",2,"Sunday",2014,"Philadelphia, PA",141,51,0.265625
+"970","Aug.",2,"Sunday",2015,"New York, NY",93,15,0.138888888888889
+"971","Aug.",2,"Sunday",2015,"Philadelphia, PA",135,57,0.296875
+"972","Aug.",2,"Sunday",2016,"Boston, MA",329,150,0.313152400835073
+"973","Aug.",2,"Sunday",2016,"Philadelphia, PA",136,55,0.287958115183246
+"974","Aug.",2,"Sunday",2017,"Philadelphia, PA",407,177,0.303082191780822
+"975","Aug.",2,"Thursday",2014,"Philadelphia, PA",144,68,0.320754716981132
+"976","Aug.",2,"Thursday",2015,"New York, NY",119,40,0.251572327044025
+"977","Aug.",2,"Thursday",2015,"Philadelphia, PA",515,202,0.281729428172943
+"978","Aug.",2,"Thursday",2016,"Boston, MA",320,174,0.352226720647773
+"979","Aug.",2,"Thursday",2016,"New York, NY",68,21,0.235955056179775
+"980","Aug.",2,"Thursday",2016,"Philadelphia, PA",246,98,0.284883720930233
+"981","Aug.",2,"Thursday",2017,"Philadelphia, PA",389,160,0.29143897996357
+"982","Aug.",2,"Tuesday",2014,"Philadelphia, PA",108,38,0.26027397260274
+"983","Aug.",2,"Tuesday",2015,"New York, NY",59,19,0.243589743589744
+"984","Aug.",2,"Tuesday",2015,"Philadelphia, PA",314,119,0.274826789838337
+"985","Aug.",2,"Tuesday",2016,"Boston, MA",339,184,0.351816443594646
+"986","Aug.",2,"Tuesday",2016,"New York, NY",79,39,0.330508474576271
+"987","Aug.",2,"Tuesday",2016,"Philadelphia, PA",190,88,0.316546762589928
+"988","Aug.",2,"Tuesday",2017,"Philadelphia, PA",330,159,0.325153374233129
+"989","Aug.",2,"Wednesday",2014,"Philadelphia, PA",175,108,0.381625441696113
+"990","Aug.",2,"Wednesday",2015,"New York, NY",168,55,0.246636771300448
+"991","Aug.",2,"Wednesday",2015,"Philadelphia, PA",354,105,0.228758169934641
+"992","Aug.",2,"Wednesday",2016,"Boston, MA",234,149,0.389033942558747
+"993","Aug.",2,"Wednesday",2016,"New York, NY",186,67,0.264822134387352
+"994","Aug.",2,"Wednesday",2016,"Philadelphia, PA",146,64,0.304761904761905
+"995","Aug.",2,"Wednesday",2017,"Philadelphia, PA",367,128,0.258585858585859
+"996","Aug.",3,"Friday",2014,"Philadelphia, PA",292,97,0.249357326478149
+"997","Aug.",3,"Friday",2015,"New York, NY",152,72,0.321428571428571
+"998","Aug.",3,"Friday",2015,"Philadelphia, PA",467,87,0.157039711191336
+"999","Aug.",3,"Friday",2016,"Boston, MA",148,101,0.405622489959839
+"1000","Aug.",3,"Friday",2016,"New York, NY",39,14,0.264150943396226
+"1001","Aug.",3,"Friday",2016,"Philadelphia, PA",197,82,0.293906810035842
+"1002","Aug.",3,"Friday",2017,"Philadelphia, PA",240,125,0.342465753424658
+"1003","Aug.",3,"Monday",2014,"Philadelphia, PA",326,85,0.206812652068127
+"1004","Aug.",3,"Monday",2015,"New York, NY",227,88,0.279365079365079
+"1005","Aug.",3,"Monday",2015,"Philadelphia, PA",293,162,0.356043956043956
+"1006","Aug.",3,"Monday",2016,"Boston, MA",170,87,0.33852140077821
+"1007","Aug.",3,"Monday",2016,"Philadelphia, PA",168,81,0.325301204819277
+"1008","Aug.",3,"Monday",2017,"Philadelphia, PA",305,170,0.357894736842105
+"1009","Aug.",3,"Saturday",2014,"Philadelphia, PA",49,6,0.109090909090909
+"1010","Aug.",3,"Saturday",2015,"New York, NY",18,6,0.25
+"1011","Aug.",3,"Saturday",2015,"Philadelphia, PA",285,48,0.144144144144144
+"1012","Aug.",3,"Saturday",2016,"Boston, MA",53,29,0.353658536585366
+"1013","Aug.",3,"Saturday",2016,"Philadelphia, PA",201,57,0.22093023255814
+"1014","Aug.",3,"Saturday",2017,"Philadelphia, PA",315,97,0.235436893203884
+"1015","Aug.",3,"Sunday",2014,"Philadelphia, PA",63,9,0.125
+"1016","Aug.",3,"Sunday",2015,"New York, NY",101,8,0.073394495412844
+"1017","Aug.",3,"Sunday",2015,"Philadelphia, PA",186,59,0.240816326530612
+"1018","Aug.",3,"Sunday",2016,"Boston, MA",123,37,0.23125
+"1019","Aug.",3,"Sunday",2016,"Philadelphia, PA",135,31,0.186746987951807
+"1020","Aug.",3,"Sunday",2017,"Philadelphia, PA",332,121,0.267108167770419
+"1021","Aug.",3,"Thursday",2014,"Philadelphia, PA",392,76,0.162393162393162
+"1022","Aug.",3,"Thursday",2015,"New York, NY",69,34,0.330097087378641
+"1023","Aug.",3,"Thursday",2015,"Philadelphia, PA",279,129,0.316176470588235
+"1024","Aug.",3,"Thursday",2016,"Boston, MA",197,104,0.345514950166113
+"1025","Aug.",3,"Thursday",2016,"New York, NY",39,14,0.264150943396226
+"1026","Aug.",3,"Thursday",2016,"Philadelphia, PA",223,86,0.27831715210356
+"1027","Aug.",3,"Thursday",2017,"Philadelphia, PA",216,81,0.272727272727273
+"1028","Aug.",3,"Tuesday",2014,"Philadelphia, PA",472,74,0.135531135531136
+"1029","Aug.",3,"Tuesday",2015,"New York, NY",138,52,0.273684210526316
+"1030","Aug.",3,"Tuesday",2015,"Philadelphia, PA",423,188,0.307692307692308
+"1031","Aug.",3,"Tuesday",2016,"Boston, MA",341,211,0.382246376811594
+"1032","Aug.",3,"Tuesday",2016,"New York, NY",63,26,0.292134831460674
+"1033","Aug.",3,"Tuesday",2016,"Philadelphia, PA",209,90,0.301003344481605
+"1034","Aug.",3,"Tuesday",2017,"Philadelphia, PA",288,142,0.330232558139535
+"1035","Aug.",3,"Wednesday",2014,"Philadelphia, PA",449,66,0.128155339805825
+"1036","Aug.",3,"Wednesday",2015,"Philadelphia, PA",271,150,0.356294536817102
+"1037","Aug.",3,"Wednesday",2016,"Boston, MA",233,107,0.314705882352941
+"1038","Aug.",3,"Wednesday",2016,"New York, NY",1,0,0
+"1039","Aug.",3,"Wednesday",2016,"Philadelphia, PA",213,78,0.268041237113402
+"1040","Aug.",3,"Wednesday",2017,"Philadelphia, PA",346,155,0.30938123752495
+"1041","Aug.",4,"Friday",2014,"Philadelphia, PA",102,38,0.271428571428571
+"1042","Aug.",4,"Friday",2015,"New York, NY",142,43,0.232432432432432
+"1043","Aug.",4,"Friday",2015,"Philadelphia, PA",332,127,0.276688453159041
+"1044","Aug.",4,"Friday",2016,"Boston, MA",352,179,0.337099811676083
+"1045","Aug.",4,"Friday",2016,"Philadelphia, PA",143,55,0.277777777777778
+"1046","Aug.",4,"Friday",2017,"Philadelphia, PA",233,88,0.274143302180685
+"1047","Aug.",4,"Monday",2014,"Philadelphia, PA",290,83,0.222520107238606
+"1048","Aug.",4,"Monday",2015,"New York, NY",97,30,0.236220472440945
+"1049","Aug.",4,"Monday",2015,"Philadelphia, PA",411,77,0.157786885245902
+"1050","Aug.",4,"Monday",2016,"Boston, MA",177,45,0.202702702702703
+"1051","Aug.",4,"Monday",2016,"Philadelphia, PA",93,34,0.267716535433071
+"1052","Aug.",4,"Monday",2017,"Philadelphia, PA",576,64,0.1
+"1053","Aug.",4,"Saturday",2014,"Philadelphia, PA",269,22,0.0756013745704467
+"1054","Aug.",4,"Saturday",2015,"New York, NY",79,26,0.247619047619048
+"1055","Aug.",4,"Saturday",2015,"Philadelphia, PA",305,99,0.245049504950495
+"1056","Aug.",4,"Saturday",2016,"Boston, MA",176,99,0.36
+"1057","Aug.",4,"Saturday",2016,"Philadelphia, PA",187,76,0.288973384030418
+"1058","Aug.",4,"Saturday",2017,"Philadelphia, PA",185,20,0.0975609756097561
+"1059","Aug.",4,"Sunday",2014,"Philadelphia, PA",371,53,0.125
+"1060","Aug.",4,"Sunday",2015,"New York, NY",102,34,0.25
+"1061","Aug.",4,"Sunday",2015,"Philadelphia, PA",253,75,0.228658536585366
+"1062","Aug.",4,"Sunday",2016,"Boston, MA",76,41,0.35042735042735
+"1063","Aug.",4,"Sunday",2016,"Philadelphia, PA",43,15,0.258620689655172
+"1064","Aug.",4,"Sunday",2017,"Philadelphia, PA",290,41,0.123867069486405
+"1065","Aug.",4,"Thursday",2014,"Philadelphia, PA",607,81,0.117732558139535
+"1066","Aug.",4,"Thursday",2015,"New York, NY",145,44,0.232804232804233
+"1067","Aug.",4,"Thursday",2015,"Philadelphia, PA",194,51,0.208163265306122
+"1068","Aug.",4,"Thursday",2016,"Boston, MA",402,195,0.326633165829146
+"1069","Aug.",4,"Thursday",2016,"Philadelphia, PA",20,11,0.354838709677419
+"1070","Aug.",4,"Thursday",2017,"Philadelphia, PA",281,106,0.27390180878553
+"1071","Aug.",4,"Tuesday",2014,"Philadelphia, PA",502,149,0.228878648233487
+"1072","Aug.",4,"Tuesday",2015,"New York, NY",178,60,0.252100840336134
+"1073","Aug.",4,"Tuesday",2015,"Philadelphia, PA",270,181,0.401330376940133
+"1074","Aug.",4,"Tuesday",2016,"Boston, MA",180,76,0.296875
+"1075","Aug.",4,"Tuesday",2016,"Philadelphia, PA",217,105,0.326086956521739
+"1076","Aug.",4,"Tuesday",2017,"Philadelphia, PA",492,97,0.164685908319185
+"1077","Aug.",4,"Wednesday",2014,"Philadelphia, PA",436,74,0.145098039215686
+"1078","Aug.",4,"Wednesday",2015,"New York, NY",160,76,0.322033898305085
+"1079","Aug.",4,"Wednesday",2015,"Philadelphia, PA",292,154,0.345291479820628
+"1080","Aug.",4,"Wednesday",2016,"Boston, MA",255,135,0.346153846153846
+"1081","Aug.",4,"Wednesday",2016,"Philadelphia, PA",59,24,0.289156626506024
+"1082","Aug.",4,"Wednesday",2017,"Philadelphia, PA",190,78,0.291044776119403
+"1083","Aug.",5,"Friday",2014,"Philadelphia, PA",189,68,0.264591439688716
+"1084","Aug.",5,"Friday",2015,"New York, NY",150,42,0.21875
+"1085","Aug.",5,"Friday",2015,"Philadelphia, PA",393,193,0.329351535836177
+"1086","Aug.",5,"Monday",2014,"Philadelphia, PA",327,39,0.10655737704918
+"1087","Aug.",5,"Monday",2015,"New York, NY",190,73,0.277566539923954
+"1088","Aug.",5,"Monday",2015,"Philadelphia, PA",299,80,0.211081794195251
+"1089","Aug.",5,"Monday",2016,"Boston, MA",238,127,0.347945205479452
+"1090","Aug.",5,"Monday",2016,"Philadelphia, PA",118,46,0.280487804878049
+"1091","Aug.",5,"Monday",2017,"Philadelphia, PA",387,65,0.143805309734513
+"1092","Aug.",5,"Saturday",2014,"Philadelphia, PA",121,13,0.0970149253731343
+"1093","Aug.",5,"Saturday",2015,"New York, NY",83,27,0.245454545454545
+"1094","Aug.",5,"Saturday",2015,"Philadelphia, PA",334,112,0.251121076233184
+"1095","Aug.",5,"Sunday",2014,"Philadelphia, PA",82,23,0.219047619047619
+"1096","Aug.",5,"Sunday",2015,"New York, NY",111,28,0.201438848920863
+"1097","Aug.",5,"Sunday",2015,"Philadelphia, PA",335,144,0.30062630480167
+"1098","Aug.",5,"Thursday",2014,"Philadelphia, PA",271,95,0.259562841530055
+"1099","Aug.",5,"Thursday",2015,"New York, NY",112,49,0.304347826086957
+"1100","Aug.",5,"Thursday",2015,"Philadelphia, PA",345,155,0.31
+"1101","Aug.",5,"Tuesday",2014,"Philadelphia, PA",359,101,0.219565217391304
+"1102","Aug.",5,"Tuesday",2015,"New York, NY",310,81,0.207161125319693
+"1103","Aug.",5,"Tuesday",2015,"Philadelphia, PA",354,157,0.307240704500978
+"1104","Aug.",5,"Tuesday",2016,"Boston, MA",144,54,0.272727272727273
+"1105","Aug.",5,"Tuesday",2016,"Philadelphia, PA",36,17,0.320754716981132
+"1106","Aug.",5,"Tuesday",2017,"Philadelphia, PA",307,46,0.130311614730878
+"1107","Aug.",5,"Wednesday",2014,"Philadelphia, PA",276,66,0.192982456140351
+"1108","Aug.",5,"Wednesday",2015,"New York, NY",192,95,0.331010452961672
+"1109","Aug.",5,"Wednesday",2015,"Philadelphia, PA",309,195,0.386904761904762
+"1110","Aug.",5,"Wednesday",2016,"Boston, MA",246,123,0.333333333333333
+"1111","Aug.",5,"Wednesday",2016,"Philadelphia, PA",95,46,0.326241134751773
+"1112","Aug.",5,"Wednesday",2017,"Philadelphia, PA",94,17,0.153153153153153
+"1113","Aug.",6,"Monday",2015,"New York, NY",107,13,0.108333333333333
+"1114","Aug.",6,"Monday",2015,"Philadelphia, PA",446,188,0.296529968454259
+"1115","Sept.",1,"Friday",2014,"Philadelphia, PA",207,65,0.238970588235294
+"1116","Sept.",1,"Friday",2015,"New York, NY",112,32,0.222222222222222
+"1117","Sept.",1,"Friday",2015,"Philadelphia, PA",326,107,0.247113163972286
+"1118","Sept.",1,"Friday",2016,"Boston, MA",296,150,0.336322869955157
+"1119","Sept.",1,"Friday",2016,"Philadelphia, PA",284,47,0.141993957703928
+"1120","Sept.",1,"Friday",2017,"Philadelphia, PA",106,32,0.231884057971014
+"1121","Sept.",1,"Monday",2014,"Philadelphia, PA",174,36,0.171428571428571
+"1122","Sept.",1,"Saturday",2014,"Philadelphia, PA",53,6,0.101694915254237
+"1123","Sept.",1,"Saturday",2015,"New York, NY",112,30,0.211267605633803
+"1124","Sept.",1,"Saturday",2015,"Philadelphia, PA",294,66,0.183333333333333
+"1125","Sept.",1,"Saturday",2016,"Boston, MA",133,37,0.217647058823529
+"1126","Sept.",1,"Saturday",2016,"Philadelphia, PA",88,22,0.2
+"1127","Sept.",1,"Saturday",2017,"Philadelphia, PA",148,20,0.119047619047619
+"1128","Sept.",1,"Sunday",2014,"Philadelphia, PA",102,14,0.120689655172414
+"1129","Sept.",1,"Sunday",2015,"New York, NY",24,4,0.142857142857143
+"1130","Sept.",1,"Sunday",2015,"Philadelphia, PA",314,58,0.155913978494624
+"1131","Sept.",1,"Sunday",2016,"Boston, MA",151,49,0.245
+"1132","Sept.",1,"Sunday",2016,"Philadelphia, PA",56,6,0.0967741935483871
+"1133","Sept.",1,"Sunday",2017,"Philadelphia, PA",248,5,0.0197628458498024
+"1134","Sept.",1,"Thursday",2014,"Philadelphia, PA",157,85,0.351239669421488
+"1135","Sept.",1,"Thursday",2015,"New York, NY",109,34,0.237762237762238
+"1136","Sept.",1,"Thursday",2015,"Philadelphia, PA",338,126,0.271551724137931
+"1137","Sept.",1,"Thursday",2016,"Boston, MA",296,124,0.295238095238095
+"1138","Sept.",1,"Thursday",2016,"Philadelphia, PA",202,44,0.178861788617886
+"1139","Sept.",1,"Thursday",2017,"Philadelphia, PA",228,77,0.252459016393443
+"1140","Sept.",1,"Tuesday",2014,"Philadelphia, PA",277,95,0.255376344086022
+"1141","Sept.",1,"Tuesday",2015,"New York, NY",172,61,0.261802575107296
+"1142","Sept.",1,"Tuesday",2015,"Philadelphia, PA",391,157,0.286496350364964
+"1143","Sept.",1,"Tuesday",2017,"Philadelphia, PA",158,36,0.185567010309278
+"1144","Sept.",1,"Wednesday",2014,"Philadelphia, PA",126,70,0.357142857142857
+"1145","Sept.",1,"Wednesday",2015,"New York, NY",43,12,0.218181818181818
+"1146","Sept.",1,"Wednesday",2015,"Philadelphia, PA",546,221,0.288135593220339
+"1147","Sept.",1,"Wednesday",2017,"Philadelphia, PA",151,46,0.233502538071066
+"1148","Sept.",2,"Friday",2014,"Philadelphia, PA",142,82,0.366071428571429
+"1149","Sept.",2,"Friday",2015,"Philadelphia, PA",345,157,0.312749003984064
+"1150","Sept.",2,"Friday",2016,"Boston, MA",191,87,0.31294964028777
+"1151","Sept.",2,"Friday",2016,"Philadelphia, PA",147,60,0.289855072463768
+"1152","Sept.",2,"Friday",2017,"Philadelphia, PA",199,98,0.32996632996633
+"1153","Sept.",2,"Monday",2014,"Philadelphia, PA",186,78,0.295454545454545
+"1154","Sept.",2,"Monday",2015,"New York, NY",93,45,0.326086956521739
+"1155","Sept.",2,"Monday",2015,"Philadelphia, PA",390,63,0.139072847682119
+"1156","Sept.",2,"Monday",2016,"Boston, MA",217,60,0.216606498194946
+"1157","Sept.",2,"Monday",2016,"Philadelphia, PA",258,46,0.151315789473684
+"1158","Sept.",2,"Monday",2017,"Philadelphia, PA",230,43,0.157509157509158
+"1159","Sept.",2,"Saturday",2014,"Philadelphia, PA",46,13,0.220338983050847
+"1160","Sept.",2,"Saturday",2015,"Philadelphia, PA",281,112,0.28498727735369
+"1161","Sept.",2,"Saturday",2016,"Boston, MA",217,122,0.359882005899705
+"1162","Sept.",2,"Saturday",2016,"Philadelphia, PA",180,42,0.189189189189189
+"1163","Sept.",2,"Saturday",2017,"Philadelphia, PA",237,119,0.334269662921348
+"1164","Sept.",2,"Sunday",2014,"Philadelphia, PA",41,16,0.280701754385965
+"1165","Sept.",2,"Sunday",2015,"Philadelphia, PA",340,48,0.123711340206186
+"1166","Sept.",2,"Sunday",2016,"Boston, MA",191,47,0.197478991596639
+"1167","Sept.",2,"Sunday",2016,"Philadelphia, PA",131,18,0.120805369127517
+"1168","Sept.",2,"Sunday",2017,"Philadelphia, PA",130,35,0.212121212121212
+"1169","Sept.",2,"Thursday",2014,"Philadelphia, PA",219,136,0.383098591549296
+"1170","Sept.",2,"Thursday",2015,"New York, NY",138,57,0.292307692307692
+"1171","Sept.",2,"Thursday",2015,"Philadelphia, PA",261,77,0.227810650887574
+"1172","Sept.",2,"Thursday",2016,"Boston, MA",302,143,0.321348314606742
+"1173","Sept.",2,"Thursday",2016,"Philadelphia, PA",161,68,0.296943231441048
+"1174","Sept.",2,"Thursday",2017,"Philadelphia, PA",319,118,0.270022883295195
+"1175","Sept.",2,"Tuesday",2014,"Philadelphia, PA",161,107,0.399253731343284
+"1176","Sept.",2,"Tuesday",2015,"New York, NY",199,47,0.191056910569106
+"1177","Sept.",2,"Tuesday",2015,"Philadelphia, PA",353,134,0.275154004106776
+"1178","Sept.",2,"Tuesday",2016,"Boston, MA",182,75,0.291828793774319
+"1179","Sept.",2,"Tuesday",2016,"Philadelphia, PA",149,75,0.334821428571429
+"1180","Sept.",2,"Tuesday",2017,"Philadelphia, PA",193,36,0.157205240174672
+"1181","Sept.",2,"Wednesday",2014,"Philadelphia, PA",80,43,0.349593495934959
+"1182","Sept.",2,"Wednesday",2015,"New York, NY",217,35,0.138888888888889
+"1183","Sept.",2,"Wednesday",2015,"Philadelphia, PA",428,137,0.242477876106195
+"1184","Sept.",2,"Wednesday",2016,"Boston, MA",138,55,0.284974093264249
+"1185","Sept.",2,"Wednesday",2016,"Philadelphia, PA",224,59,0.208480565371025
+"1186","Sept.",2,"Wednesday",2017,"Philadelphia, PA",466,89,0.16036036036036
+"1187","Sept.",3,"Friday",2014,"Philadelphia, PA",184,81,0.305660377358491
+"1188","Sept.",3,"Friday",2015,"New York, NY",173,74,0.299595141700405
+"1189","Sept.",3,"Friday",2015,"Philadelphia, PA",320,131,0.290465631929047
+"1190","Sept.",3,"Friday",2016,"Boston, MA",83,46,0.356589147286822
+"1191","Sept.",3,"Friday",2016,"Philadelphia, PA",99,43,0.302816901408451
+"1192","Sept.",3,"Friday",2017,"Philadelphia, PA",419,112,0.210922787193974
+"1193","Sept.",3,"Monday",2014,"Philadelphia, PA",186,108,0.36734693877551
+"1194","Sept.",3,"Monday",2015,"New York, NY",117,46,0.282208588957055
+"1195","Sept.",3,"Monday",2015,"Philadelphia, PA",262,76,0.224852071005917
+"1196","Sept.",3,"Monday",2016,"Boston, MA",220,105,0.323076923076923
+"1197","Sept.",3,"Monday",2016,"Philadelphia, PA",212,62,0.226277372262774
+"1198","Sept.",3,"Monday",2017,"Philadelphia, PA",294,67,0.185595567867036
+"1199","Sept.",3,"Saturday",2014,"Philadelphia, PA",114,53,0.317365269461078
+"1200","Sept.",3,"Saturday",2015,"New York, NY",98,45,0.314685314685315
+"1201","Sept.",3,"Saturday",2015,"Philadelphia, PA",165,30,0.153846153846154
+"1202","Sept.",3,"Saturday",2016,"Boston, MA",176,74,0.296
+"1203","Sept.",3,"Saturday",2016,"Philadelphia, PA",96,71,0.425149700598802
+"1204","Sept.",3,"Saturday",2017,"Philadelphia, PA",340,94,0.216589861751152
+"1205","Sept.",3,"Sunday",2014,"Philadelphia, PA",141,53,0.27319587628866
+"1206","Sept.",3,"Sunday",2015,"New York, NY",102,15,0.128205128205128
+"1207","Sept.",3,"Sunday",2015,"Philadelphia, PA",402,40,0.0904977375565611
+"1208","Sept.",3,"Sunday",2016,"Boston, MA",223,93,0.294303797468354
+"1209","Sept.",3,"Sunday",2016,"Philadelphia, PA",115,59,0.339080459770115
+"1210","Sept.",3,"Sunday",2017,"Philadelphia, PA",253,42,0.142372881355932
+"1211","Sept.",3,"Thursday",2014,"Philadelphia, PA",126,87,0.408450704225352
+"1212","Sept.",3,"Thursday",2015,"New York, NY",180,66,0.268292682926829
+"1213","Sept.",3,"Thursday",2015,"Philadelphia, PA",401,136,0.253258845437616
+"1214","Sept.",3,"Thursday",2016,"Boston, MA",220,107,0.327217125382263
+"1215","Sept.",3,"Thursday",2016,"Philadelphia, PA",134,29,0.177914110429448
+"1216","Sept.",3,"Thursday",2017,"Philadelphia, PA",317,95,0.230582524271845
+"1217","Sept.",3,"Tuesday",2014,"Philadelphia, PA",114,74,0.393617021276596
+"1218","Sept.",3,"Tuesday",2015,"New York, NY",207,68,0.247272727272727
+"1219","Sept.",3,"Tuesday",2015,"Philadelphia, PA",434,193,0.307814992025518
+"1220","Sept.",3,"Tuesday",2016,"Boston, MA",140,71,0.336492890995261
+"1221","Sept.",3,"Tuesday",2016,"Philadelphia, PA",137,41,0.230337078651685
+"1222","Sept.",3,"Tuesday",2017,"Philadelphia, PA",400,77,0.161425576519916
+"1223","Sept.",3,"Wednesday",2014,"Philadelphia, PA",92,48,0.342857142857143
+"1224","Sept.",3,"Wednesday",2015,"New York, NY",257,56,0.178913738019169
+"1225","Sept.",3,"Wednesday",2015,"Philadelphia, PA",460,151,0.247135842880524
+"1226","Sept.",3,"Wednesday",2016,"Boston, MA",158,85,0.349794238683128
+"1227","Sept.",3,"Wednesday",2016,"Philadelphia, PA",97,44,0.312056737588652
+"1228","Sept.",3,"Wednesday",2017,"Philadelphia, PA",504,103,0.169686985172982
+"1229","Sept.",4,"Friday",2014,"Philadelphia, PA",122,82,0.401960784313726
+"1230","Sept.",4,"Friday",2015,"New York, NY",353,20,0.0536193029490617
+"1231","Sept.",4,"Friday",2015,"Philadelphia, PA",543,50,0.0843170320404722
+"1232","Sept.",4,"Friday",2016,"Boston, MA",127,62,0.328042328042328
+"1233","Sept.",4,"Friday",2016,"Philadelphia, PA",101,65,0.391566265060241
+"1234","Sept.",4,"Friday",2017,"Philadelphia, PA",424,152,0.263888888888889
+"1235","Sept.",4,"Monday",2014,"Philadelphia, PA",91,58,0.389261744966443
+"1236","Sept.",4,"Monday",2015,"New York, NY",223,53,0.192028985507246
+"1237","Sept.",4,"Monday",2015,"Philadelphia, PA",405,79,0.163223140495868
+"1238","Sept.",4,"Monday",2016,"Boston, MA",108,55,0.337423312883436
+"1239","Sept.",4,"Monday",2016,"Philadelphia, PA",105,68,0.393063583815029
+"1240","Sept.",4,"Monday",2017,"Philadelphia, PA",308,70,0.185185185185185
+"1241","Sept.",4,"Saturday",2014,"Philadelphia, PA",194,51,0.208163265306122
+"1242","Sept.",4,"Saturday",2015,"New York, NY",165,3,0.0178571428571429
+"1243","Sept.",4,"Saturday",2015,"Philadelphia, PA",664,8,0.0119047619047619
+"1244","Sept.",4,"Saturday",2016,"Boston, MA",247,140,0.361757105943152
+"1245","Sept.",4,"Saturday",2016,"Philadelphia, PA",218,41,0.158301158301158
+"1246","Sept.",4,"Saturday",2017,"Philadelphia, PA",356,99,0.217582417582418
+"1247","Sept.",4,"Sunday",2014,"Philadelphia, PA",89,24,0.212389380530973
+"1248","Sept.",4,"Sunday",2015,"New York, NY",77,4,0.0493827160493827
+"1249","Sept.",4,"Sunday",2015,"Philadelphia, PA",415,5,0.0119047619047619
+"1250","Sept.",4,"Sunday",2016,"Boston, MA",189,53,0.21900826446281
+"1251","Sept.",4,"Sunday",2016,"Philadelphia, PA",175,27,0.133663366336634
+"1252","Sept.",4,"Thursday",2014,"Philadelphia, PA",161,87,0.350806451612903
+"1253","Sept.",4,"Thursday",2015,"New York, NY",251,43,0.146258503401361
+"1254","Sept.",4,"Thursday",2015,"Philadelphia, PA",558,94,0.144171779141104
+"1255","Sept.",4,"Thursday",2016,"Boston, MA",151,90,0.37344398340249
+"1256","Sept.",4,"Thursday",2016,"Philadelphia, PA",73,65,0.471014492753623
+"1257","Sept.",4,"Thursday",2017,"Philadelphia, PA",423,101,0.192748091603053
+"1258","Sept.",4,"Tuesday",2014,"Philadelphia, PA",225,127,0.360795454545455
+"1259","Sept.",4,"Tuesday",2015,"New York, NY",291,71,0.196132596685083
+"1260","Sept.",4,"Tuesday",2015,"Philadelphia, PA",399,48,0.10738255033557
+"1261","Sept.",4,"Tuesday",2016,"Boston, MA",154,112,0.421052631578947
+"1262","Sept.",4,"Tuesday",2016,"Philadelphia, PA",182,103,0.36140350877193
+"1263","Sept.",4,"Tuesday",2017,"Philadelphia, PA",436,116,0.210144927536232
+"1264","Sept.",4,"Wednesday",2014,"Philadelphia, PA",145,120,0.452830188679245
+"1265","Sept.",4,"Wednesday",2015,"New York, NY",476,55,0.103578154425612
+"1266","Sept.",4,"Wednesday",2015,"Philadelphia, PA",409,84,0.170385395537525
+"1267","Sept.",4,"Wednesday",2016,"Boston, MA",119,106,0.471111111111111
+"1268","Sept.",4,"Wednesday",2016,"Philadelphia, PA",100,47,0.319727891156463
+"1269","Sept.",4,"Wednesday",2017,"Philadelphia, PA",443,102,0.187155963302752
+"1270","Sept.",5,"Friday",2016,"Boston, MA",120,48,0.285714285714286
+"1271","Sept.",5,"Friday",2016,"Philadelphia, PA",208,48,0.1875
+"1272","Sept.",5,"Monday",2014,"Philadelphia, PA",135,51,0.274193548387097
+"1273","Sept.",5,"Monday",2015,"New York, NY",295,79,0.211229946524064
+"1274","Sept.",5,"Monday",2015,"Philadelphia, PA",522,66,0.112244897959184
+"1275","Sept.",5,"Monday",2016,"Boston, MA",161,64,0.284444444444444
+"1276","Sept.",5,"Monday",2016,"Philadelphia, PA",195,25,0.113636363636364
+"1277","Sept.",5,"Thursday",2016,"Boston, MA",131,61,0.317708333333333
+"1278","Sept.",5,"Thursday",2016,"Philadelphia, PA",196,80,0.289855072463768
+"1279","Sept.",5,"Tuesday",2014,"Philadelphia, PA",137,101,0.42436974789916
+"1280","Sept.",5,"Tuesday",2015,"New York, NY",318,116,0.267281105990783
+"1281","Sept.",5,"Tuesday",2015,"Philadelphia, PA",517,216,0.294679399727149
+"1282","Sept.",5,"Tuesday",2016,"Boston, MA",150,69,0.315068493150685
+"1283","Sept.",5,"Tuesday",2016,"Philadelphia, PA",230,48,0.172661870503597
+"1284","Sept.",5,"Wednesday",2015,"New York, NY",119,24,0.167832167832168
+"1285","Sept.",5,"Wednesday",2015,"Philadelphia, PA",393,191,0.327054794520548
+"1286","Sept.",5,"Wednesday",2016,"Boston, MA",76,26,0.254901960784314
+"1287","Sept.",5,"Wednesday",2016,"Philadelphia, PA",217,67,0.235915492957746
+"1288","Oct.",1,"Friday",2014,"Philadelphia, PA",244,130,0.347593582887701
+"1289","Oct.",1,"Friday",2015,"Boston, MA",157,89,0.361788617886179
+"1290","Oct.",1,"Friday",2015,"New York, NY",247,66,0.210862619808307
+"1291","Oct.",1,"Friday",2015,"Philadelphia, PA",543,167,0.235211267605634
+"1292","Oct.",1,"Saturday",2014,"Philadelphia, PA",143,26,0.153846153846154
+"1293","Oct.",1,"Saturday",2015,"Boston, MA",108,53,0.329192546583851
+"1294","Oct.",1,"Saturday",2015,"New York, NY",242,37,0.132616487455197
+"1295","Oct.",1,"Saturday",2015,"Philadelphia, PA",219,61,0.217857142857143
+"1296","Oct.",1,"Saturday",2016,"Boston, MA",61,19,0.2375
+"1297","Oct.",1,"Saturday",2016,"Philadelphia, PA",144,23,0.137724550898204
+"1298","Oct.",1,"Sunday",2014,"Philadelphia, PA",83,22,0.20952380952381
+"1299","Oct.",1,"Sunday",2015,"Boston, MA",300,122,0.289099526066351
+"1300","Oct.",1,"Sunday",2015,"New York, NY",76,11,0.126436781609195
+"1301","Oct.",1,"Sunday",2015,"Philadelphia, PA",275,81,0.22752808988764
+"1302","Oct.",1,"Sunday",2016,"Boston, MA",76,11,0.126436781609195
+"1303","Oct.",1,"Sunday",2017,"Philadelphia, PA",311,82,0.208651399491094
+"1304","Oct.",1,"Thursday",2014,"Philadelphia, PA",140,70,0.333333333333333
+"1305","Oct.",1,"Thursday",2015,"New York, NY",241,44,0.154385964912281
+"1306","Oct.",1,"Thursday",2015,"Philadelphia, PA",448,120,0.211267605633803
+"1307","Oct.",1,"Wednesday",2014,"Philadelphia, PA",209,111,0.346875
+"1308","Oct.",2,"Friday",2014,"Philadelphia, PA",86,41,0.322834645669291
+"1309","Oct.",2,"Friday",2015,"Boston, MA",260,118,0.312169312169312
+"1310","Oct.",2,"Friday",2015,"New York, NY",237,95,0.286144578313253
+"1311","Oct.",2,"Friday",2015,"Philadelphia, PA",518,228,0.305630026809651
+"1312","Oct.",2,"Friday",2016,"Boston, MA",236,79,0.250793650793651
+"1313","Oct.",2,"Friday",2016,"Philadelphia, PA",239,37,0.134057971014493
+"1314","Oct.",2,"Friday",2017,"Philadelphia, PA",583,214,0.268506900878294
+"1315","Oct.",2,"Monday",2014,"Philadelphia, PA",264,81,0.234782608695652
+"1316","Oct.",2,"Monday",2015,"Boston, MA",228,86,0.273885350318471
+"1317","Oct.",2,"Monday",2015,"New York, NY",175,50,0.222222222222222
+"1318","Oct.",2,"Monday",2015,"Philadelphia, PA",283,109,0.278061224489796
+"1319","Oct.",2,"Monday",2016,"Boston, MA",44,14,0.241379310344828
+"1320","Oct.",2,"Monday",2016,"Philadelphia, PA",200,80,0.285714285714286
+"1321","Oct.",2,"Monday",2017,"Philadelphia, PA",151,213,0.585164835164835
+"1322","Oct.",2,"Saturday",2014,"Philadelphia, PA",90,22,0.196428571428571
+"1323","Oct.",2,"Saturday",2015,"Boston, MA",98,39,0.284671532846715
+"1324","Oct.",2,"Saturday",2015,"New York, NY",71,11,0.134146341463415
+"1325","Oct.",2,"Saturday",2015,"Philadelphia, PA",252,60,0.192307692307692
+"1326","Oct.",2,"Saturday",2016,"Boston, MA",141,54,0.276923076923077
+"1327","Oct.",2,"Saturday",2016,"Philadelphia, PA",55,2,0.0350877192982456
+"1328","Oct.",2,"Saturday",2017,"Philadelphia, PA",336,135,0.286624203821656
+"1329","Oct.",2,"Sunday",2014,"Philadelphia, PA",59,25,0.297619047619048
+"1330","Oct.",2,"Sunday",2015,"Boston, MA",193,96,0.332179930795848
+"1331","Oct.",2,"Sunday",2015,"New York, NY",98,10,0.0925925925925926
+"1332","Oct.",2,"Sunday",2015,"Philadelphia, PA",370,120,0.244897959183673
+"1333","Oct.",2,"Sunday",2016,"Boston, MA",48,10,0.172413793103448
+"1334","Oct.",2,"Sunday",2016,"Philadelphia, PA",101,13,0.114035087719298
+"1335","Oct.",2,"Sunday",2017,"Philadelphia, PA",224,61,0.214035087719298
+"1336","Oct.",2,"Thursday",2014,"Philadelphia, PA",159,82,0.340248962655602
+"1337","Oct.",2,"Thursday",2015,"Boston, MA",160,57,0.262672811059908
+"1338","Oct.",2,"Thursday",2015,"New York, NY",267,105,0.282258064516129
+"1339","Oct.",2,"Thursday",2015,"Philadelphia, PA",499,159,0.241641337386018
+"1340","Oct.",2,"Thursday",2016,"Boston, MA",230,58,0.201388888888889
+"1341","Oct.",2,"Thursday",2016,"Philadelphia, PA",133,30,0.184049079754601
+"1342","Oct.",2,"Thursday",2017,"Philadelphia, PA",500,274,0.354005167958656
+"1343","Oct.",2,"Tuesday",2014,"Philadelphia, PA",274,133,0.326781326781327
+"1344","Oct.",2,"Tuesday",2015,"Boston, MA",181,39,0.177272727272727
+"1345","Oct.",2,"Tuesday",2015,"New York, NY",183,65,0.262096774193548
+"1346","Oct.",2,"Tuesday",2015,"Philadelphia, PA",322,191,0.372319688109162
+"1347","Oct.",2,"Tuesday",2016,"Boston, MA",126,72,0.363636363636364
+"1348","Oct.",2,"Tuesday",2016,"Philadelphia, PA",213,105,0.330188679245283
+"1349","Oct.",2,"Tuesday",2017,"Philadelphia, PA",421,343,0.448952879581152
+"1350","Oct.",2,"Wednesday",2014,"Philadelphia, PA",104,54,0.341772151898734
+"1351","Oct.",2,"Wednesday",2015,"Boston, MA",208,101,0.326860841423948
+"1352","Oct.",2,"Wednesday",2015,"New York, NY",331,147,0.307531380753138
+"1353","Oct.",2,"Wednesday",2015,"Philadelphia, PA",441,217,0.329787234042553
+"1354","Oct.",2,"Wednesday",2016,"Boston, MA",69,17,0.197674418604651
+"1355","Oct.",2,"Wednesday",2016,"Philadelphia, PA",161,34,0.174358974358974
+"1356","Oct.",2,"Wednesday",2017,"Philadelphia, PA",421,316,0.42876526458616
+"1357","Oct.",3,"Friday",2014,"Philadelphia, PA",79,44,0.357723577235772
+"1358","Oct.",3,"Friday",2015,"Boston, MA",265,121,0.313471502590674
+"1359","Oct.",3,"Friday",2015,"New York, NY",290,74,0.203296703296703
+"1360","Oct.",3,"Friday",2015,"Philadelphia, PA",423,250,0.37147102526003
+"1361","Oct.",3,"Friday",2016,"Boston, MA",122,66,0.351063829787234
+"1362","Oct.",3,"Friday",2016,"Philadelphia, PA",241,65,0.212418300653595
+"1363","Oct.",3,"Friday",2017,"Philadelphia, PA",431,118,0.214936247723133
+"1364","Oct.",3,"Monday",2014,"Philadelphia, PA",60,23,0.27710843373494
+"1365","Oct.",3,"Monday",2015,"Boston, MA",393,176,0.309314586994728
+"1366","Oct.",3,"Monday",2015,"New York, NY",178,71,0.285140562248996
+"1367","Oct.",3,"Monday",2015,"Philadelphia, PA",276,72,0.206896551724138
+"1368","Oct.",3,"Monday",2016,"Boston, MA",306,106,0.257281553398058
+"1369","Oct.",3,"Monday",2016,"Philadelphia, PA",231,41,0.150735294117647
+"1370","Oct.",3,"Monday",2017,"Philadelphia, PA",515,114,0.181240063593005
+"1371","Oct.",3,"Saturday",2014,"Philadelphia, PA",28,2,0.0666666666666667
+"1372","Oct.",3,"Saturday",2015,"Boston, MA",343,130,0.274841437632135
+"1373","Oct.",3,"Saturday",2015,"New York, NY",167,34,0.169154228855721
+"1374","Oct.",3,"Saturday",2015,"Philadelphia, PA",315,81,0.204545454545455
+"1375","Oct.",3,"Saturday",2016,"Boston, MA",147,77,0.34375
+"1376","Oct.",3,"Saturday",2016,"Philadelphia, PA",172,30,0.148514851485149
+"1377","Oct.",3,"Saturday",2017,"Philadelphia, PA",290,51,0.149560117302053
+"1378","Oct.",3,"Sunday",2014,"Philadelphia, PA",16,11,0.407407407407407
+"1379","Oct.",3,"Sunday",2015,"Boston, MA",340,138,0.288702928870293
+"1380","Oct.",3,"Sunday",2015,"New York, NY",205,41,0.166666666666667
+"1381","Oct.",3,"Sunday",2015,"Philadelphia, PA",274,78,0.221590909090909
+"1382","Oct.",3,"Sunday",2016,"Boston, MA",275,136,0.330900243309002
+"1383","Oct.",3,"Sunday",2016,"Philadelphia, PA",109,5,0.043859649122807
+"1384","Oct.",3,"Sunday",2017,"Philadelphia, PA",372,67,0.152619589977221
+"1385","Oct.",3,"Thursday",2014,"Philadelphia, PA",40,18,0.310344827586207
+"1386","Oct.",3,"Thursday",2015,"Boston, MA",342,206,0.375912408759124
+"1387","Oct.",3,"Thursday",2015,"New York, NY",134,34,0.202380952380952
+"1388","Oct.",3,"Thursday",2015,"Philadelphia, PA",433,204,0.320251177394035
+"1389","Oct.",3,"Thursday",2016,"Boston, MA",84,82,0.493975903614458
+"1390","Oct.",3,"Thursday",2016,"Philadelphia, PA",221,77,0.258389261744966
+"1391","Oct.",3,"Thursday",2017,"Philadelphia, PA",571,209,0.267948717948718
+"1392","Oct.",3,"Tuesday",2014,"Philadelphia, PA",119,45,0.274390243902439
+"1393","Oct.",3,"Tuesday",2015,"Boston, MA",212,121,0.363363363363363
+"1394","Oct.",3,"Tuesday",2015,"New York, NY",76,30,0.283018867924528
+"1395","Oct.",3,"Tuesday",2015,"Philadelphia, PA",342,175,0.338491295938104
+"1396","Oct.",3,"Tuesday",2016,"Boston, MA",162,58,0.263636363636364
+"1397","Oct.",3,"Tuesday",2016,"Philadelphia, PA",194,39,0.167381974248927
+"1398","Oct.",3,"Tuesday",2017,"Philadelphia, PA",436,152,0.258503401360544
+"1399","Oct.",3,"Wednesday",2014,"Philadelphia, PA",105,51,0.326923076923077
+"1400","Oct.",3,"Wednesday",2015,"Boston, MA",103,65,0.386904761904762
+"1401","Oct.",3,"Wednesday",2015,"New York, NY",300,88,0.22680412371134
+"1402","Oct.",3,"Wednesday",2015,"Philadelphia, PA",521,273,0.343828715365239
+"1403","Oct.",3,"Wednesday",2016,"Boston, MA",150,75,0.333333333333333
+"1404","Oct.",3,"Wednesday",2016,"Philadelphia, PA",57,25,0.304878048780488
+"1405","Oct.",3,"Wednesday",2017,"Philadelphia, PA",414,114,0.215909090909091
+"1406","Oct.",4,"Friday",2014,"Philadelphia, PA",32,22,0.407407407407407
+"1407","Oct.",4,"Friday",2015,"Boston, MA",244,190,0.43778801843318
+"1408","Oct.",4,"Friday",2015,"New York, NY",230,110,0.323529411764706
+"1409","Oct.",4,"Friday",2015,"Philadelphia, PA",363,143,0.282608695652174
+"1410","Oct.",4,"Friday",2016,"Boston, MA",73,35,0.324074074074074
+"1411","Oct.",4,"Friday",2016,"Philadelphia, PA",187,38,0.168888888888889
+"1412","Oct.",4,"Friday",2017,"Philadelphia, PA",567,188,0.249006622516556
+"1413","Oct.",4,"Monday",2014,"Philadelphia, PA",36,22,0.379310344827586
+"1414","Oct.",4,"Monday",2015,"Boston, MA",317,156,0.329809725158562
+"1415","Oct.",4,"Monday",2015,"New York, NY",205,52,0.202334630350195
+"1416","Oct.",4,"Monday",2015,"Philadelphia, PA",347,95,0.214932126696833
+"1417","Oct.",4,"Monday",2016,"Boston, MA",251,125,0.332446808510638
+"1418","Oct.",4,"Monday",2016,"Philadelphia, PA",147,48,0.246153846153846
+"1419","Oct.",4,"Monday",2017,"Philadelphia, PA",381,129,0.252941176470588
+"1420","Oct.",4,"Saturday",2014,"Philadelphia, PA",31,0,0
+"1421","Oct.",4,"Saturday",2015,"Boston, MA",246,199,0.447191011235955
+"1422","Oct.",4,"Saturday",2015,"New York, NY",110,33,0.230769230769231
+"1423","Oct.",4,"Saturday",2016,"Boston, MA",80,25,0.238095238095238
+"1424","Oct.",4,"Saturday",2016,"Philadelphia, PA",82,8,0.0888888888888889
+"1425","Oct.",4,"Saturday",2017,"Philadelphia, PA",326,84,0.204878048780488
+"1426","Oct.",4,"Sunday",2015,"Boston, MA",133,46,0.256983240223464
+"1427","Oct.",4,"Sunday",2015,"New York, NY",184,63,0.255060728744939
+"1428","Oct.",4,"Sunday",2016,"Boston, MA",29,0,0
+"1429","Oct.",4,"Sunday",2016,"Philadelphia, PA",127,14,0.099290780141844
+"1430","Oct.",4,"Sunday",2017,"Philadelphia, PA",303,118,0.280285035629454
+"1431","Oct.",4,"Thursday",2014,"Philadelphia, PA",122,43,0.260606060606061
+"1432","Oct.",4,"Thursday",2015,"Boston, MA",278,187,0.402150537634409
+"1433","Oct.",4,"Thursday",2015,"New York, NY",173,83,0.32421875
+"1434","Oct.",4,"Thursday",2015,"Philadelphia, PA",468,231,0.330472103004292
+"1435","Oct.",4,"Thursday",2016,"Boston, MA",136,63,0.316582914572864
+"1436","Oct.",4,"Thursday",2016,"Philadelphia, PA",208,38,0.154471544715447
+"1437","Oct.",4,"Thursday",2017,"Philadelphia, PA",519,212,0.290013679890561
+"1438","Oct.",4,"Tuesday",2014,"Philadelphia, PA",74,51,0.408
+"1439","Oct.",4,"Tuesday",2015,"Boston, MA",386,198,0.339041095890411
+"1440","Oct.",4,"Tuesday",2015,"New York, NY",227,78,0.255737704918033
+"1441","Oct.",4,"Tuesday",2015,"Philadelphia, PA",556,216,0.27979274611399
+"1442","Oct.",4,"Tuesday",2016,"Boston, MA",107,77,0.418478260869565
+"1443","Oct.",4,"Tuesday",2016,"Philadelphia, PA",115,32,0.217687074829932
+"1444","Oct.",4,"Tuesday",2017,"Philadelphia, PA",428,102,0.192452830188679
+"1445","Oct.",4,"Wednesday",2014,"Philadelphia, PA",71,34,0.323809523809524
+"1446","Oct.",4,"Wednesday",2015,"Boston, MA",320,164,0.338842975206612
+"1447","Oct.",4,"Wednesday",2015,"New York, NY",264,162,0.380281690140845
+"1448","Oct.",4,"Wednesday",2015,"Philadelphia, PA",466,187,0.286370597243492
+"1449","Oct.",4,"Wednesday",2016,"Boston, MA",101,64,0.387878787878788
+"1450","Oct.",4,"Wednesday",2016,"Philadelphia, PA",175,72,0.291497975708502
+"1451","Oct.",4,"Wednesday",2017,"Philadelphia, PA",355,147,0.292828685258964
+"1452","Oct.",5,"Friday",2014,"Philadelphia, PA",45,32,0.415584415584416
+"1453","Oct.",5,"Friday",2015,"Boston, MA",242,92,0.275449101796407
+"1454","Oct.",5,"Friday",2015,"New York, NY",345,76,0.180522565320665
+"1455","Oct.",5,"Friday",2015,"Philadelphia, PA",480,189,0.282511210762332
+"1456","Oct.",5,"Friday",2016,"Boston, MA",73,37,0.336363636363636
+"1457","Oct.",5,"Friday",2016,"Philadelphia, PA",115,46,0.285714285714286
+"1458","Oct.",5,"Friday",2017,"Philadelphia, PA",265,100,0.273972602739726
+"1459","Oct.",5,"Monday",2014,"Philadelphia, PA",64,12,0.157894736842105
+"1460","Oct.",5,"Monday",2015,"Boston, MA",290,139,0.324009324009324
+"1461","Oct.",5,"Monday",2015,"New York, NY",157,45,0.222772277227723
+"1462","Oct.",5,"Monday",2016,"Boston, MA",80,34,0.298245614035088
+"1463","Oct.",5,"Monday",2016,"Philadelphia, PA",18,10,0.357142857142857
+"1464","Oct.",5,"Monday",2017,"Philadelphia, PA",455,130,0.222222222222222
+"1465","Oct.",5,"Saturday",2015,"Boston, MA",148,52,0.26
+"1466","Oct.",5,"Saturday",2015,"New York, NY",95,23,0.194915254237288
+"1467","Oct.",5,"Saturday",2015,"Philadelphia, PA",318,42,0.116666666666667
+"1468","Oct.",5,"Saturday",2016,"Boston, MA",110,9,0.0756302521008403
+"1469","Oct.",5,"Saturday",2016,"Philadelphia, PA",130,20,0.133333333333333
+"1470","Oct.",5,"Saturday",2017,"Philadelphia, PA",175,51,0.225663716814159
+"1471","Oct.",5,"Sunday",2016,"Boston, MA",92,21,0.185840707964602
+"1472","Oct.",5,"Sunday",2016,"Philadelphia, PA",52,6,0.103448275862069
+"1473","Oct.",5,"Sunday",2017,"Philadelphia, PA",279,50,0.151975683890578
+"1474","Oct.",5,"Thursday",2014,"Philadelphia, PA",84,42,0.333333333333333
+"1475","Oct.",5,"Thursday",2015,"Boston, MA",128,50,0.280898876404494
+"1476","Oct.",5,"Thursday",2015,"New York, NY",395,106,0.211576846307385
+"1477","Oct.",5,"Thursday",2015,"Philadelphia, PA",178,57,0.242553191489362
+"1478","Oct.",5,"Thursday",2016,"Boston, MA",214,53,0.198501872659176
+"1479","Oct.",5,"Thursday",2016,"Philadelphia, PA",23,4,0.148148148148148
+"1480","Oct.",5,"Thursday",2017,"Philadelphia, PA",379,130,0.255402750491159
+"1481","Oct.",5,"Tuesday",2014,"Philadelphia, PA",118,56,0.32183908045977
+"1482","Oct.",5,"Tuesday",2015,"Boston, MA",298,156,0.343612334801762
+"1483","Oct.",5,"Tuesday",2015,"New York, NY",141,63,0.308823529411765
+"1484","Oct.",5,"Tuesday",2016,"Boston, MA",139,54,0.27979274611399
+"1485","Oct.",5,"Tuesday",2016,"Philadelphia, PA",54,27,0.333333333333333
+"1486","Oct.",5,"Tuesday",2017,"Philadelphia, PA",386,118,0.234126984126984
+"1487","Oct.",5,"Wednesday",2014,"Philadelphia, PA",84,7,0.0769230769230769
+"1488","Oct.",5,"Wednesday",2015,"Boston, MA",320,105,0.247058823529412
+"1489","Oct.",5,"Wednesday",2015,"New York, NY",201,52,0.205533596837945
+"1490","Oct.",5,"Wednesday",2016,"Boston, MA",166,33,0.165829145728643
+"1491","Oct.",5,"Wednesday",2016,"Philadelphia, PA",130,15,0.103448275862069
+"1492","Oct.",5,"Wednesday",2017,"Philadelphia, PA",573,237,0.292592592592593
+"1493","Oct.",6,"Monday",2016,"Boston, MA",111,34,0.23448275862069
+"1494","Oct.",6,"Monday",2016,"Philadelphia, PA",105,21,0.166666666666667
+"1495","Oct.",6,"Monday",2017,"Philadelphia, PA",371,151,0.289272030651341
+"1496","Oct.",6,"Tuesday",2017,"Philadelphia, PA",361,349,0.491549295774648
+"1497","Nov.",1,"Friday",2016,"Boston, MA",147,39,0.209677419354839
+"1498","Nov.",1,"Friday",2016,"Philadelphia, PA",112,34,0.232876712328767
+"1499","Nov.",1,"Friday",2017,"Philadelphia, PA",306,109,0.262650602409639
+"1500","Nov.",1,"Saturday",2014,"Philadelphia, PA",93,21,0.184210526315789
+"1501","Nov.",1,"Saturday",2016,"Boston, MA",34,20,0.37037037037037
+"1502","Nov.",1,"Saturday",2017,"Philadelphia, PA",327,83,0.202439024390244
+"1503","Nov.",1,"Sunday",2015,"Boston, MA",159,34,0.176165803108808
+"1504","Nov.",1,"Sunday",2015,"New York, NY",399,61,0.132608695652174
+"1505","Nov.",1,"Sunday",2015,"Philadelphia, PA",189,30,0.136986301369863
+"1506","Nov.",1,"Sunday",2016,"Boston, MA",20,9,0.310344827586207
+"1507","Nov.",1,"Sunday",2017,"Philadelphia, PA",343,127,0.270212765957447
+"1508","Nov.",1,"Thursday",2016,"Boston, MA",76,33,0.302752293577982
+"1509","Nov.",1,"Thursday",2016,"Philadelphia, PA",103,23,0.182539682539683
+"1510","Nov.",1,"Thursday",2017,"Philadelphia, PA",372,172,0.316176470588235
+"1511","Nov.",1,"Tuesday",2016,"Boston, MA",127,68,0.348717948717949
+"1512","Nov.",1,"Tuesday",2016,"Philadelphia, PA",48,8,0.142857142857143
+"1513","Nov.",1,"Wednesday",2016,"Boston, MA",85,35,0.291666666666667
+"1514","Nov.",1,"Wednesday",2016,"Philadelphia, PA",73,15,0.170454545454545
+"1515","Nov.",1,"Wednesday",2017,"Philadelphia, PA",354,256,0.419672131147541
+"1516","Nov.",2,"Friday",2014,"Philadelphia, PA",230,162,0.413265306122449
+"1517","Nov.",2,"Friday",2015,"Boston, MA",363,264,0.421052631578947
+"1518","Nov.",2,"Friday",2015,"New York, NY",340,157,0.3158953722334
+"1519","Nov.",2,"Friday",2016,"Boston, MA",303,185,0.379098360655738
+"1520","Nov.",2,"Friday",2016,"Philadelphia, PA",362,86,0.191964285714286
+"1521","Nov.",2,"Friday",2017,"Philadelphia, PA",631,168,0.21026282853567
+"1522","Nov.",2,"Monday",2014,"Philadelphia, PA",84,21,0.2
+"1523","Nov.",2,"Monday",2015,"Boston, MA",180,105,0.368421052631579
+"1524","Nov.",2,"Monday",2015,"New York, NY",248,94,0.274853801169591
+"1525","Nov.",2,"Monday",2015,"Philadelphia, PA",384,165,0.300546448087432
+"1526","Nov.",2,"Monday",2016,"Boston, MA",84,25,0.229357798165138
+"1527","Nov.",2,"Monday",2016,"Philadelphia, PA",73,13,0.151162790697674
+"1528","Nov.",2,"Monday",2017,"Philadelphia, PA",370,202,0.353146853146853
+"1529","Nov.",2,"Saturday",2014,"Philadelphia, PA",77,37,0.324561403508772
+"1530","Nov.",2,"Saturday",2015,"Boston, MA",72,43,0.373913043478261
+"1531","Nov.",2,"Saturday",2015,"New York, NY",110,34,0.236111111111111
+"1532","Nov.",2,"Saturday",2016,"Boston, MA",206,71,0.256317689530686
+"1533","Nov.",2,"Saturday",2016,"Philadelphia, PA",354,91,0.204494382022472
+"1534","Nov.",2,"Saturday",2017,"Philadelphia, PA",248,60,0.194805194805195
+"1535","Nov.",2,"Sunday",2014,"Philadelphia, PA",224,63,0.219512195121951
+"1536","Nov.",2,"Sunday",2015,"Boston, MA",252,70,0.217391304347826
+"1537","Nov.",2,"Sunday",2015,"New York, NY",74,34,0.314814814814815
+"1538","Nov.",2,"Sunday",2016,"Boston, MA",243,103,0.297687861271676
+"1539","Nov.",2,"Sunday",2016,"Philadelphia, PA",275,114,0.29305912596401
+"1540","Nov.",2,"Sunday",2017,"Philadelphia, PA",241,76,0.239747634069401
+"1541","Nov.",2,"Thursday",2014,"Philadelphia, PA",79,63,0.443661971830986
+"1542","Nov.",2,"Thursday",2015,"Boston, MA",186,97,0.342756183745583
+"1543","Nov.",2,"Thursday",2015,"New York, NY",228,76,0.25
+"1544","Nov.",2,"Thursday",2015,"Philadelphia, PA",222,133,0.374647887323944
+"1545","Nov.",2,"Thursday",2016,"Boston, MA",296,132,0.308411214953271
+"1546","Nov.",2,"Thursday",2016,"Philadelphia, PA",630,174,0.216417910447761
+"1547","Nov.",2,"Thursday",2017,"Philadelphia, PA",401,148,0.269581056466302
+"1548","Nov.",2,"Tuesday",2014,"Philadelphia, PA",105,56,0.347826086956522
+"1549","Nov.",2,"Tuesday",2015,"Boston, MA",253,137,0.351282051282051
+"1550","Nov.",2,"Tuesday",2015,"New York, NY",244,122,0.333333333333333
+"1551","Nov.",2,"Tuesday",2015,"Philadelphia, PA",511,226,0.306648575305292
+"1552","Nov.",2,"Tuesday",2016,"Boston, MA",110,27,0.197080291970803
+"1553","Nov.",2,"Tuesday",2016,"Philadelphia, PA",130,13,0.0909090909090909
+"1554","Nov.",2,"Tuesday",2017,"Philadelphia, PA",328,166,0.336032388663968
+"1555","Nov.",2,"Wednesday",2014,"Philadelphia, PA",323,158,0.328482328482329
+"1556","Nov.",2,"Wednesday",2015,"Boston, MA",292,209,0.417165668662675
+"1557","Nov.",2,"Wednesday",2015,"New York, NY",200,99,0.331103678929766
+"1558","Nov.",2,"Wednesday",2015,"Philadelphia, PA",698,240,0.255863539445629
+"1559","Nov.",2,"Wednesday",2016,"Boston, MA",459,28,0.0574948665297741
+"1560","Nov.",2,"Wednesday",2016,"Philadelphia, PA",406,32,0.0730593607305936
+"1561","Nov.",2,"Wednesday",2017,"Philadelphia, PA",468,132,0.22
+"1562","Nov.",3,"Friday",2014,"Philadelphia, PA",245,139,0.361979166666667
+"1563","Nov.",3,"Friday",2015,"Boston, MA",177,163,0.479411764705882
+"1564","Nov.",3,"Friday",2015,"New York, NY",187,245,0.56712962962963
+"1565","Nov.",3,"Friday",2015,"Philadelphia, PA",301,227,0.429924242424242
+"1566","Nov.",3,"Friday",2016,"Boston, MA",198,138,0.410714285714286
+"1567","Nov.",3,"Friday",2016,"Philadelphia, PA",192,112,0.368421052631579
+"1568","Nov.",3,"Friday",2017,"Philadelphia, PA",554,137,0.198263386396527
+"1569","Nov.",3,"Monday",2014,"Philadelphia, PA",289,87,0.231382978723404
+"1570","Nov.",3,"Monday",2015,"Boston, MA",299,184,0.380952380952381
+"1571","Nov.",3,"Monday",2015,"New York, NY",225,94,0.294670846394984
+"1572","Nov.",3,"Monday",2015,"Philadelphia, PA",99,36,0.266666666666667
+"1573","Nov.",3,"Monday",2016,"Boston, MA",279,131,0.319512195121951
+"1574","Nov.",3,"Monday",2016,"Philadelphia, PA",437,119,0.214028776978417
+"1575","Nov.",3,"Monday",2017,"Philadelphia, PA",350,110,0.239130434782609
+"1576","Nov.",3,"Saturday",2014,"Philadelphia, PA",182,68,0.272
+"1577","Nov.",3,"Saturday",2015,"Boston, MA",27,31,0.53448275862069
+"1578","Nov.",3,"Saturday",2015,"New York, NY",71,103,0.591954022988506
+"1579","Nov.",3,"Saturday",2015,"Philadelphia, PA",257,152,0.371638141809291
+"1580","Nov.",3,"Saturday",2016,"Boston, MA",45,32,0.415584415584416
+"1581","Nov.",3,"Saturday",2016,"Philadelphia, PA",272,80,0.227272727272727
+"1582","Nov.",3,"Saturday",2017,"Philadelphia, PA",311,45,0.126404494382022
+"1583","Nov.",3,"Sunday",2014,"Philadelphia, PA",42,14,0.25
+"1584","Nov.",3,"Sunday",2015,"Boston, MA",32,0,0
+"1585","Nov.",3,"Sunday",2015,"New York, NY",148,143,0.491408934707904
+"1586","Nov.",3,"Sunday",2015,"Philadelphia, PA",409,169,0.292387543252595
+"1587","Nov.",3,"Sunday",2016,"Boston, MA",126,43,0.254437869822485
+"1588","Nov.",3,"Sunday",2016,"Philadelphia, PA",283,25,0.0811688311688312
+"1589","Nov.",3,"Sunday",2017,"Philadelphia, PA",321,40,0.110803324099723
+"1590","Nov.",3,"Thursday",2014,"Philadelphia, PA",281,133,0.321256038647343
+"1591","Nov.",3,"Thursday",2015,"Boston, MA",367,202,0.355008787346221
+"1592","Nov.",3,"Thursday",2015,"New York, NY",287,158,0.355056179775281
+"1593","Nov.",3,"Thursday",2015,"Philadelphia, PA",324,160,0.330578512396694
+"1594","Nov.",3,"Thursday",2016,"Boston, MA",289,128,0.306954436450839
+"1595","Nov.",3,"Thursday",2016,"Philadelphia, PA",111,53,0.323170731707317
+"1596","Nov.",3,"Thursday",2017,"Philadelphia, PA",681,227,0.25
+"1597","Nov.",3,"Tuesday",2014,"Philadelphia, PA",273,131,0.324257425742574
+"1598","Nov.",3,"Tuesday",2015,"Boston, MA",268,149,0.357314148681055
+"1599","Nov.",3,"Tuesday",2015,"New York, NY",221,113,0.338323353293413
+"1600","Nov.",3,"Tuesday",2015,"Philadelphia, PA",446,218,0.328313253012048
+"1601","Nov.",3,"Tuesday",2016,"Boston, MA",303,103,0.253694581280788
+"1602","Nov.",3,"Tuesday",2016,"Philadelphia, PA",417,132,0.240437158469945
+"1603","Nov.",3,"Tuesday",2017,"Philadelphia, PA",325,171,0.344758064516129
+"1604","Nov.",3,"Wednesday",2014,"Philadelphia, PA",264,143,0.351351351351351
+"1605","Nov.",3,"Wednesday",2015,"Boston, MA",323,109,0.252314814814815
+"1606","Nov.",3,"Wednesday",2015,"New York, NY",93,22,0.191304347826087
+"1607","Nov.",3,"Wednesday",2015,"Philadelphia, PA",322,92,0.222222222222222
+"1608","Nov.",3,"Wednesday",2016,"Boston, MA",250,155,0.382716049382716
+"1609","Nov.",3,"Wednesday",2016,"Philadelphia, PA",194,68,0.259541984732824
+"1610","Nov.",3,"Wednesday",2017,"Philadelphia, PA",331,221,0.40036231884058
+"1611","Nov.",4,"Friday",2014,"Philadelphia, PA",204,117,0.364485981308411
+"1612","Nov.",4,"Friday",2015,"Boston, MA",364,263,0.419457735247209
+"1613","Nov.",4,"Friday",2015,"New York, NY",227,103,0.312121212121212
+"1614","Nov.",4,"Friday",2015,"Philadelphia, PA",406,216,0.347266881028939
+"1615","Nov.",4,"Friday",2016,"Boston, MA",67,16,0.192771084337349
+"1616","Nov.",4,"Friday",2016,"Philadelphia, PA",311,99,0.241463414634146
+"1617","Nov.",4,"Friday",2017,"Philadelphia, PA",343,39,0.102094240837696
+"1618","Nov.",4,"Monday",2014,"Philadelphia, PA",445,106,0.192377495462795
+"1619","Nov.",4,"Monday",2015,"Boston, MA",110,79,0.417989417989418
+"1620","Nov.",4,"Monday",2015,"New York, NY",154,152,0.496732026143791
+"1621","Nov.",4,"Monday",2015,"Philadelphia, PA",265,195,0.423913043478261
+"1622","Nov.",4,"Monday",2016,"Boston, MA",212,104,0.329113924050633
+"1623","Nov.",4,"Monday",2016,"Philadelphia, PA",586,137,0.189488243430152
+"1624","Nov.",4,"Monday",2017,"Philadelphia, PA",332,91,0.215130023640662
+"1625","Nov.",4,"Saturday",2014,"Philadelphia, PA",137,52,0.275132275132275
+"1626","Nov.",4,"Saturday",2015,"Boston, MA",99,63,0.388888888888889
+"1627","Nov.",4,"Saturday",2015,"New York, NY",171,81,0.321428571428571
+"1628","Nov.",4,"Saturday",2015,"Philadelphia, PA",442,96,0.178438661710037
+"1629","Nov.",4,"Saturday",2016,"Boston, MA",60,43,0.41747572815534
+"1630","Nov.",4,"Saturday",2016,"Philadelphia, PA",338,91,0.212121212121212
+"1631","Nov.",4,"Saturday",2017,"Philadelphia, PA",208,36,0.147540983606557
+"1632","Nov.",4,"Sunday",2014,"Philadelphia, PA",197,56,0.221343873517787
+"1633","Nov.",4,"Sunday",2015,"Boston, MA",54,32,0.372093023255814
+"1634","Nov.",4,"Sunday",2015,"New York, NY",133,59,0.307291666666667
+"1635","Nov.",4,"Sunday",2015,"Philadelphia, PA",325,65,0.166666666666667
+"1636","Nov.",4,"Sunday",2016,"Boston, MA",185,110,0.372881355932203
+"1637","Nov.",4,"Sunday",2016,"Philadelphia, PA",352,47,0.117794486215539
+"1638","Nov.",4,"Sunday",2017,"Philadelphia, PA",153,46,0.231155778894472
+"1639","Nov.",4,"Thursday",2014,"Philadelphia, PA",230,122,0.346590909090909
+"1640","Nov.",4,"Thursday",2015,"Boston, MA",208,155,0.426997245179063
+"1641","Nov.",4,"Thursday",2015,"New York, NY",220,139,0.387186629526462
+"1642","Nov.",4,"Thursday",2015,"Philadelphia, PA",374,203,0.351819757365685
+"1643","Nov.",4,"Thursday",2016,"Boston, MA",212,82,0.27891156462585
+"1644","Nov.",4,"Thursday",2016,"Philadelphia, PA",471,73,0.134191176470588
+"1645","Nov.",4,"Thursday",2017,"Philadelphia, PA",313,31,0.0901162790697674
+"1646","Nov.",4,"Tuesday",2014,"Philadelphia, PA",332,105,0.240274599542334
+"1647","Nov.",4,"Tuesday",2015,"Boston, MA",190,139,0.422492401215805
+"1648","Nov.",4,"Tuesday",2015,"New York, NY",210,119,0.361702127659574
+"1649","Nov.",4,"Tuesday",2015,"Philadelphia, PA",291,172,0.371490280777538
+"1650","Nov.",4,"Tuesday",2016,"Boston, MA",366,202,0.355633802816901
+"1651","Nov.",4,"Tuesday",2016,"Philadelphia, PA",442,168,0.275409836065574
+"1652","Nov.",4,"Tuesday",2017,"Philadelphia, PA",311,110,0.261282660332542
+"1653","Nov.",4,"Wednesday",2014,"Philadelphia, PA",239,80,0.250783699059561
+"1654","Nov.",4,"Wednesday",2015,"Boston, MA",236,157,0.399491094147583
+"1655","Nov.",4,"Wednesday",2015,"New York, NY",294,148,0.334841628959276
+"1656","Nov.",4,"Wednesday",2015,"Philadelphia, PA",461,184,0.285271317829457
+"1657","Nov.",4,"Wednesday",2016,"Boston, MA",315,142,0.310722100656455
+"1658","Nov.",4,"Wednesday",2016,"Philadelphia, PA",565,119,0.173976608187135
+"1659","Nov.",4,"Wednesday",2017,"Philadelphia, PA",239,82,0.255451713395639
+"1660","Nov.",5,"Friday",2014,"Philadelphia, PA",400,28,0.0654205607476635
+"1661","Nov.",5,"Friday",2015,"Boston, MA",256,138,0.350253807106599
+"1662","Nov.",5,"Friday",2015,"New York, NY",98,17,0.147826086956522
+"1663","Nov.",5,"Friday",2015,"Philadelphia, PA",342,75,0.179856115107914
+"1664","Nov.",5,"Monday",2014,"Philadelphia, PA",324,128,0.283185840707965
+"1665","Nov.",5,"Monday",2015,"Boston, MA",194,162,0.455056179775281
+"1666","Nov.",5,"Monday",2015,"New York, NY",96,44,0.314285714285714
+"1667","Nov.",5,"Monday",2015,"Philadelphia, PA",449,142,0.240270727580372
+"1668","Nov.",5,"Monday",2016,"Boston, MA",83,24,0.224299065420561
+"1669","Nov.",5,"Monday",2016,"Philadelphia, PA",395,137,0.257518796992481
+"1670","Nov.",5,"Monday",2017,"Philadelphia, PA",357,96,0.211920529801325
+"1671","Nov.",5,"Saturday",2014,"Philadelphia, PA",155,37,0.192708333333333
+"1672","Nov.",5,"Saturday",2015,"Boston, MA",153,125,0.449640287769784
+"1673","Nov.",5,"Saturday",2015,"New York, NY",73,35,0.324074074074074
+"1674","Nov.",5,"Saturday",2015,"Philadelphia, PA",362,127,0.259713701431493
+"1675","Nov.",5,"Sunday",2014,"Philadelphia, PA",118,38,0.243589743589744
+"1676","Nov.",5,"Sunday",2015,"Boston, MA",121,40,0.248447204968944
+"1677","Nov.",5,"Sunday",2015,"New York, NY",34,15,0.306122448979592
+"1678","Nov.",5,"Sunday",2015,"Philadelphia, PA",341,99,0.225
+"1679","Nov.",5,"Thursday",2014,"Philadelphia, PA",162,48,0.228571428571429
+"1680","Nov.",5,"Thursday",2015,"Boston, MA",296,147,0.331828442437923
+"1681","Nov.",5,"Thursday",2015,"New York, NY",174,44,0.201834862385321
+"1682","Nov.",5,"Thursday",2015,"Philadelphia, PA",293,62,0.174647887323944
+"1683","Nov.",5,"Thursday",2017,"Philadelphia, PA",376,105,0.218295218295218
+"1684","Nov.",5,"Tuesday",2014,"Philadelphia, PA",138,83,0.375565610859729
+"1685","Nov.",5,"Tuesday",2015,"Boston, MA",177,101,0.363309352517986
+"1686","Nov.",5,"Tuesday",2015,"New York, NY",162,84,0.341463414634146
+"1687","Nov.",5,"Tuesday",2015,"Philadelphia, PA",296,260,0.467625899280576
+"1688","Nov.",5,"Tuesday",2016,"Boston, MA",126,41,0.245508982035928
+"1689","Nov.",5,"Tuesday",2016,"Philadelphia, PA",610,267,0.304446978335234
+"1690","Nov.",5,"Tuesday",2017,"Philadelphia, PA",373,164,0.305400372439479
+"1691","Nov.",5,"Wednesday",2014,"Philadelphia, PA",244,63,0.205211726384365
+"1692","Nov.",5,"Wednesday",2015,"Boston, MA",260,137,0.345088161209068
+"1693","Nov.",5,"Wednesday",2015,"New York, NY",112,82,0.422680412371134
+"1694","Nov.",5,"Wednesday",2015,"Philadelphia, PA",425,180,0.297520661157025
+"1695","Nov.",5,"Wednesday",2016,"Boston, MA",28,6,0.176470588235294
+"1696","Nov.",5,"Wednesday",2016,"Philadelphia, PA",428,201,0.319554848966614
+"1697","Nov.",5,"Wednesday",2017,"Philadelphia, PA",414,206,0.332258064516129
+"1698","Nov.",6,"Monday",2015,"Boston, MA",296,174,0.370212765957447
+"1699","Nov.",6,"Monday",2015,"New York, NY",100,39,0.280575539568345
+"1700","Nov.",6,"Monday",2015,"Philadelphia, PA",371,152,0.290630975143403
+"1701","Dec.",1,"Friday",2014,"Philadelphia, PA",187,101,0.350694444444444
+"1702","Dec.",1,"Friday",2015,"Boston, MA",140,92,0.396551724137931
+"1703","Dec.",1,"Friday",2015,"New York, NY",155,90,0.36734693877551
+"1704","Dec.",1,"Friday",2015,"Philadelphia, PA",311,211,0.404214559386973
+"1705","Dec.",1,"Friday",2016,"Philadelphia, PA",417,132,0.240437158469945
+"1706","Dec.",1,"Friday",2017,"Philadelphia, PA",336,75,0.182481751824818
+"1707","Dec.",1,"Monday",2014,"Philadelphia, PA",283,123,0.302955665024631
+"1708","Dec.",1,"Saturday",2014,"Philadelphia, PA",44,13,0.228070175438596
+"1709","Dec.",1,"Saturday",2015,"Boston, MA",75,64,0.460431654676259
+"1710","Dec.",1,"Saturday",2015,"New York, NY",211,80,0.274914089347079
+"1711","Dec.",1,"Saturday",2015,"Philadelphia, PA",205,102,0.332247557003257
+"1712","Dec.",1,"Saturday",2016,"Philadelphia, PA",226,81,0.263843648208469
+"1713","Dec.",1,"Sunday",2014,"Philadelphia, PA",90,20,0.181818181818182
+"1714","Dec.",1,"Sunday",2015,"Boston, MA",20,10,0.333333333333333
+"1715","Dec.",1,"Sunday",2015,"New York, NY",152,90,0.371900826446281
+"1716","Dec.",1,"Sunday",2015,"Philadelphia, PA",225,62,0.21602787456446
+"1717","Dec.",1,"Sunday",2016,"Philadelphia, PA",267,31,0.104026845637584
+"1718","Dec.",1,"Thursday",2014,"Philadelphia, PA",311,164,0.345263157894737
+"1719","Dec.",1,"Thursday",2015,"Boston, MA",186,252,0.575342465753425
+"1720","Dec.",1,"Thursday",2015,"New York, NY",203,131,0.392215568862275
+"1721","Dec.",1,"Thursday",2015,"Philadelphia, PA",319,266,0.454700854700855
+"1722","Dec.",1,"Thursday",2016,"Boston, MA",33,24,0.421052631578947
+"1723","Dec.",1,"Thursday",2016,"Philadelphia, PA",214,135,0.386819484240688
+"1724","Dec.",1,"Tuesday",2014,"Philadelphia, PA",235,96,0.290030211480363
+"1725","Dec.",1,"Tuesday",2015,"Boston, MA",180,129,0.41747572815534
+"1726","Dec.",1,"Tuesday",2015,"New York, NY",146,53,0.266331658291457
+"1727","Dec.",1,"Tuesday",2015,"Philadelphia, PA",387,175,0.311387900355872
+"1728","Dec.",1,"Wednesday",2014,"Philadelphia, PA",218,102,0.31875
+"1729","Dec.",1,"Wednesday",2015,"Boston, MA",146,160,0.522875816993464
+"1730","Dec.",1,"Wednesday",2015,"New York, NY",121,140,0.53639846743295
+"1731","Dec.",1,"Wednesday",2015,"Philadelphia, PA",440,357,0.44792973651192
+"1732","Dec.",2,"Friday",2014,"Philadelphia, PA",140,96,0.406779661016949
+"1733","Dec.",2,"Friday",2015,"Boston, MA",322,146,0.311965811965812
+"1734","Dec.",2,"Friday",2015,"New York, NY",266,78,0.226744186046512
+"1735","Dec.",2,"Friday",2015,"Philadelphia, PA",441,179,0.288709677419355
+"1736","Dec.",2,"Friday",2016,"Philadelphia, PA",419,103,0.197318007662835
+"1737","Dec.",2,"Friday",2017,"Philadelphia, PA",460,103,0.182948490230906
+"1738","Dec.",2,"Monday",2014,"Philadelphia, PA",177,72,0.289156626506024
+"1739","Dec.",2,"Monday",2015,"Boston, MA",120,93,0.436619718309859
+"1740","Dec.",2,"Monday",2015,"New York, NY",95,45,0.321428571428571
+"1741","Dec.",2,"Monday",2015,"Philadelphia, PA",306,156,0.337662337662338
+"1742","Dec.",2,"Monday",2016,"Philadelphia, PA",350,83,0.191685912240185
+"1743","Dec.",2,"Monday",2017,"Philadelphia, PA",380,115,0.232323232323232
+"1744","Dec.",2,"Saturday",2014,"Philadelphia, PA",237,69,0.225490196078431
+"1745","Dec.",2,"Saturday",2015,"Boston, MA",33,19,0.365384615384615
+"1746","Dec.",2,"Saturday",2015,"New York, NY",111,33,0.229166666666667
+"1747","Dec.",2,"Saturday",2015,"Philadelphia, PA",334,51,0.132467532467532
+"1748","Dec.",2,"Saturday",2016,"Philadelphia, PA",300,94,0.238578680203046
+"1749","Dec.",2,"Saturday",2017,"Philadelphia, PA",290,35,0.107692307692308
+"1750","Dec.",2,"Sunday",2014,"Philadelphia, PA",118,22,0.157142857142857
+"1751","Dec.",2,"Sunday",2015,"Boston, MA",87,26,0.230088495575221
+"1752","Dec.",2,"Sunday",2015,"New York, NY",268,56,0.172839506172839
+"1753","Dec.",2,"Sunday",2015,"Philadelphia, PA",278,74,0.210227272727273
+"1754","Dec.",2,"Sunday",2016,"Philadelphia, PA",221,44,0.166037735849057
+"1755","Dec.",2,"Sunday",2017,"Philadelphia, PA",472,72,0.132352941176471
+"1756","Dec.",2,"Thursday",2014,"Philadelphia, PA",188,68,0.265625
+"1757","Dec.",2,"Thursday",2015,"Boston, MA",261,126,0.325581395348837
+"1758","Dec.",2,"Thursday",2015,"New York, NY",136,61,0.309644670050761
+"1759","Dec.",2,"Thursday",2015,"Philadelphia, PA",553,198,0.263648468708389
+"1760","Dec.",2,"Thursday",2016,"Philadelphia, PA",531,154,0.224817518248175
+"1761","Dec.",2,"Thursday",2017,"Philadelphia, PA",396,113,0.222003929273084
+"1762","Dec.",2,"Tuesday",2014,"Philadelphia, PA",363,73,0.16743119266055
+"1763","Dec.",2,"Tuesday",2015,"Boston, MA",414,202,0.327922077922078
+"1764","Dec.",2,"Tuesday",2015,"New York, NY",148,78,0.345132743362832
+"1765","Dec.",2,"Tuesday",2015,"Philadelphia, PA",423,220,0.342146189735614
+"1766","Dec.",2,"Tuesday",2016,"Philadelphia, PA",695,182,0.207525655644242
+"1767","Dec.",2,"Tuesday",2017,"Philadelphia, PA",618,127,0.170469798657718
+"1768","Dec.",2,"Wednesday",2014,"Philadelphia, PA",303,124,0.2903981264637
+"1769","Dec.",2,"Wednesday",2015,"Boston, MA",122,92,0.429906542056075
+"1770","Dec.",2,"Wednesday",2015,"New York, NY",253,97,0.277142857142857
+"1771","Dec.",2,"Wednesday",2015,"Philadelphia, PA",540,241,0.308578745198464
+"1772","Dec.",2,"Wednesday",2016,"Philadelphia, PA",653,176,0.212303980699638
+"1773","Dec.",2,"Wednesday",2017,"Philadelphia, PA",259,80,0.23598820058997
+"1774","Dec.",3,"Friday",2014,"Philadelphia, PA",152,85,0.358649789029536
+"1775","Dec.",3,"Friday",2015,"Boston, MA",154,88,0.363636363636364
+"1776","Dec.",3,"Friday",2015,"New York, NY",279,111,0.284615384615385
+"1777","Dec.",3,"Friday",2015,"Philadelphia, PA",370,155,0.295238095238095
+"1778","Dec.",3,"Friday",2016,"Philadelphia, PA",412,119,0.224105461393597
+"1779","Dec.",3,"Friday",2017,"Philadelphia, PA",563,112,0.165925925925926
+"1780","Dec.",3,"Monday",2014,"Philadelphia, PA",116,97,0.455399061032864
+"1781","Dec.",3,"Monday",2015,"Boston, MA",76,29,0.276190476190476
+"1782","Dec.",3,"Monday",2015,"New York, NY",179,99,0.356115107913669
+"1783","Dec.",3,"Monday",2015,"Philadelphia, PA",474,180,0.275229357798165
+"1784","Dec.",3,"Monday",2016,"Philadelphia, PA",342,137,0.286012526096033
+"1785","Dec.",3,"Monday",2017,"Philadelphia, PA",361,72,0.166281755196305
+"1786","Dec.",3,"Saturday",2014,"Philadelphia, PA",56,25,0.308641975308642
+"1787","Dec.",3,"Saturday",2015,"Boston, MA",103,52,0.335483870967742
+"1788","Dec.",3,"Saturday",2015,"New York, NY",62,22,0.261904761904762
+"1789","Dec.",3,"Saturday",2015,"Philadelphia, PA",300,91,0.232736572890026
+"1790","Dec.",3,"Saturday",2016,"Philadelphia, PA",327,48,0.128
+"1791","Dec.",3,"Saturday",2017,"Philadelphia, PA",258,58,0.183544303797468
+"1792","Dec.",3,"Sunday",2015,"Boston, MA",181,46,0.202643171806167
+"1793","Dec.",3,"Sunday",2015,"New York, NY",249,82,0.24773413897281
+"1794","Dec.",3,"Sunday",2015,"Philadelphia, PA",360,72,0.166666666666667
+"1795","Dec.",3,"Sunday",2016,"Philadelphia, PA",237,37,0.135036496350365
+"1796","Dec.",3,"Sunday",2017,"Philadelphia, PA",293,72,0.197260273972603
+"1797","Dec.",3,"Thursday",2014,"Philadelphia, PA",238,122,0.338888888888889
+"1798","Dec.",3,"Thursday",2015,"Boston, MA",236,94,0.284848484848485
+"1799","Dec.",3,"Thursday",2015,"New York, NY",237,103,0.302941176470588
+"1800","Dec.",3,"Thursday",2015,"Philadelphia, PA",397,165,0.293594306049822
+"1801","Dec.",3,"Thursday",2016,"Philadelphia, PA",376,136,0.265625
+"1802","Dec.",3,"Thursday",2017,"Philadelphia, PA",526,103,0.163751987281399
+"1803","Dec.",3,"Tuesday",2014,"Philadelphia, PA",112,104,0.481481481481481
+"1804","Dec.",3,"Tuesday",2015,"Boston, MA",165,141,0.46078431372549
+"1805","Dec.",3,"Tuesday",2015,"New York, NY",300,116,0.278846153846154
+"1806","Dec.",3,"Tuesday",2015,"Philadelphia, PA",451,249,0.355714285714286
+"1807","Dec.",3,"Tuesday",2016,"Philadelphia, PA",387,209,0.350671140939597
+"1808","Dec.",3,"Tuesday",2017,"Philadelphia, PA",328,123,0.272727272727273
+"1809","Dec.",3,"Wednesday",2014,"Philadelphia, PA",221,176,0.443324937027708
+"1810","Dec.",3,"Wednesday",2015,"Boston, MA",227,132,0.367688022284123
+"1811","Dec.",3,"Wednesday",2015,"New York, NY",162,87,0.349397590361446
+"1812","Dec.",3,"Wednesday",2015,"Philadelphia, PA",421,232,0.355283307810107
+"1813","Dec.",3,"Wednesday",2016,"Philadelphia, PA",324,123,0.275167785234899
+"1814","Dec.",3,"Wednesday",2017,"Philadelphia, PA",707,133,0.158333333333333
+"1815","Dec.",4,"Friday",2014,"Philadelphia, PA",303,64,0.174386920980926
+"1816","Dec.",4,"Friday",2015,"Boston, MA",177,62,0.259414225941423
+"1817","Dec.",4,"Friday",2015,"New York, NY",124,20,0.138888888888889
+"1818","Dec.",4,"Friday",2015,"Philadelphia, PA",214,16,0.0695652173913043
+"1819","Dec.",4,"Friday",2016,"Philadelphia, PA",333,112,0.251685393258427
+"1820","Dec.",4,"Friday",2017,"Philadelphia, PA",383,108,0.219959266802444
+"1821","Dec.",4,"Monday",2014,"Philadelphia, PA",155,106,0.406130268199234
+"1822","Dec.",4,"Monday",2015,"Boston, MA",187,107,0.363945578231293
+"1823","Dec.",4,"Monday",2015,"New York, NY",298,134,0.310185185185185
+"1824","Dec.",4,"Monday",2015,"Philadelphia, PA",582,152,0.20708446866485
+"1825","Dec.",4,"Monday",2016,"Philadelphia, PA",310,79,0.203084832904884
+"1826","Dec.",4,"Monday",2017,"Philadelphia, PA",381,67,0.149553571428571
+"1827","Dec.",4,"Saturday",2014,"Philadelphia, PA",137,49,0.263440860215054
+"1828","Dec.",4,"Saturday",2015,"Boston, MA",52,25,0.324675324675325
+"1829","Dec.",4,"Saturday",2015,"New York, NY",317,40,0.112044817927171
+"1830","Dec.",4,"Saturday",2015,"Philadelphia, PA",220,29,0.116465863453815
+"1831","Dec.",4,"Saturday",2016,"Philadelphia, PA",452,53,0.104950495049505
+"1832","Dec.",4,"Saturday",2017,"Philadelphia, PA",395,84,0.175365344467641
+"1833","Dec.",4,"Sunday",2014,"Philadelphia, PA",163,49,0.231132075471698
+"1834","Dec.",4,"Sunday",2015,"Boston, MA",64,19,0.228915662650602
+"1835","Dec.",4,"Sunday",2015,"New York, NY",184,58,0.239669421487603
+"1836","Dec.",4,"Sunday",2015,"Philadelphia, PA",244,40,0.140845070422535
+"1837","Dec.",4,"Sunday",2016,"Philadelphia, PA",194,17,0.0805687203791469
+"1838","Dec.",4,"Sunday",2017,"Philadelphia, PA",416,69,0.142268041237113
+"1839","Dec.",4,"Thursday",2014,"Philadelphia, PA",86,8,0.0851063829787234
+"1840","Dec.",4,"Thursday",2015,"Boston, MA",315,118,0.272517321016166
+"1841","Dec.",4,"Thursday",2015,"New York, NY",297,62,0.172701949860724
+"1842","Dec.",4,"Thursday",2015,"Philadelphia, PA",497,99,0.166107382550336
+"1843","Dec.",4,"Thursday",2016,"Philadelphia, PA",361,142,0.282306163021869
+"1844","Dec.",4,"Thursday",2017,"Philadelphia, PA",504,179,0.26207906295754
+"1845","Dec.",4,"Tuesday",2014,"Philadelphia, PA",136,76,0.358490566037736
+"1846","Dec.",4,"Tuesday",2015,"Boston, MA",119,72,0.37696335078534
+"1847","Dec.",4,"Tuesday",2015,"New York, NY",145,82,0.361233480176211
+"1848","Dec.",4,"Tuesday",2015,"Philadelphia, PA",373,207,0.356896551724138
+"1849","Dec.",4,"Tuesday",2016,"Philadelphia, PA",491,200,0.289435600578871
+"1850","Dec.",4,"Tuesday",2017,"Philadelphia, PA",547,120,0.179910044977511
+"1851","Dec.",4,"Wednesday",2014,"Philadelphia, PA",266,94,0.261111111111111
+"1852","Dec.",4,"Wednesday",2015,"Boston, MA",251,128,0.337730870712401
+"1853","Dec.",4,"Wednesday",2015,"New York, NY",223,117,0.344117647058824
+"1854","Dec.",4,"Wednesday",2015,"Philadelphia, PA",343,121,0.260775862068966
+"1855","Dec.",4,"Wednesday",2016,"Philadelphia, PA",376,168,0.308823529411765
+"1856","Dec.",4,"Wednesday",2017,"Philadelphia, PA",434,130,0.230496453900709
+"1857","Dec.",5,"Friday",2016,"Philadelphia, PA",326,111,0.254004576659039
+"1858","Dec.",5,"Friday",2017,"Philadelphia, PA",374,58,0.134259259259259
+"1859","Dec.",5,"Monday",2014,"Philadelphia, PA",207,34,0.141078838174274
+"1860","Dec.",5,"Monday",2015,"Boston, MA",286,93,0.245382585751979
+"1861","Dec.",5,"Monday",2015,"New York, NY",86,25,0.225225225225225
+"1862","Dec.",5,"Monday",2015,"Philadelphia, PA",345,114,0.248366013071895
+"1863","Dec.",5,"Monday",2016,"Philadelphia, PA",424,71,0.143434343434343
+"1864","Dec.",5,"Monday",2017,"Philadelphia, PA",130,7,0.0510948905109489
+"1865","Dec.",5,"Saturday",2016,"Philadelphia, PA",70,35,0.333333333333333
+"1866","Dec.",5,"Saturday",2017,"Philadelphia, PA",260,18,0.0647482014388489
+"1867","Dec.",5,"Sunday",2017,"Philadelphia, PA",67,15,0.182926829268293
+"1868","Dec.",5,"Thursday",2015,"Boston, MA",166,64,0.278260869565217
+"1869","Dec.",5,"Thursday",2015,"New York, NY",58,48,0.452830188679245
+"1870","Dec.",5,"Thursday",2015,"Philadelphia, PA",198,137,0.408955223880597
+"1871","Dec.",5,"Thursday",2016,"Philadelphia, PA",406,166,0.29020979020979
+"1872","Dec.",5,"Thursday",2017,"Philadelphia, PA",416,98,0.190661478599222
+"1873","Dec.",5,"Tuesday",2014,"Philadelphia, PA",202,98,0.326666666666667
+"1874","Dec.",5,"Tuesday",2015,"Boston, MA",265,61,0.187116564417178
+"1875","Dec.",5,"Tuesday",2015,"New York, NY",272,99,0.266846361185984
+"1876","Dec.",5,"Tuesday",2015,"Philadelphia, PA",339,117,0.256578947368421
+"1877","Dec.",5,"Tuesday",2016,"Philadelphia, PA",510,167,0.246676514032496
+"1878","Dec.",5,"Tuesday",2017,"Philadelphia, PA",491,76,0.134038800705467
+"1879","Dec.",5,"Wednesday",2014,"Philadelphia, PA",73,50,0.40650406504065
+"1880","Dec.",5,"Wednesday",2015,"Boston, MA",189,92,0.327402135231317
+"1881","Dec.",5,"Wednesday",2015,"New York, NY",268,143,0.347931873479319
+"1882","Dec.",5,"Wednesday",2015,"Philadelphia, PA",395,177,0.309440559440559
+"1883","Dec.",5,"Wednesday",2016,"Philadelphia, PA",235,103,0.304733727810651
+"1884","Dec.",5,"Wednesday",2017,"Philadelphia, PA",359,68,0.159250585480094
